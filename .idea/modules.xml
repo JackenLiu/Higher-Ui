@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Higher-Ui.iml" filepath="$PROJECT_DIR$/.idea/modules/Higher-Ui.iml" group="Higher-Ui" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="Higher-Ui/app" />
+    </modules>
+  </component>
+</project>
