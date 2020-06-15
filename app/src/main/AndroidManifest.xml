@@ -9,6 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+        <activity android:name=".path.PathBezierCurveActivity"></activity>
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -22,7 +23,6 @@
         <activity android:name=".paint.PaintInitActivity" />
         <activity android:name=".path.PathEffectActivity" />
         <activity android:name=".path.PathPrimaryActivity" />
-
     </application>
 
 </manifest>

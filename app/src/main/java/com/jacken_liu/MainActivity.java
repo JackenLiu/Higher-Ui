@@ -5,7 +5,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.content.Intent;
 import android.os.Bundle;
 
-import com.jacken_liu.path.PathEffectActivity;
+import com.jacken_liu.path.PathBezierCurveActivity;
 import com.jacken_liu.path.PathPrimaryActivity;
 
 public class MainActivity extends AppCompatActivity {
@@ -20,8 +20,9 @@ public class MainActivity extends AppCompatActivity {
 //        final Class toActivity = PaintGradientActivity.class;
 //        final Class toActivity = PaintInitActivity.class;
 
-        final Class toActivity = PathPrimaryActivity.class;
+//        final Class toActivity = PathPrimaryActivity.class;
 //        final Class toActivity = PathEffectActivity.class;
+        final Class toActivity = PathBezierCurveActivity.class;
 
         startActivity(new Intent(this, toActivity));
     }
