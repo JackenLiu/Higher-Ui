@@ -67,7 +67,7 @@ public class PathPrimaryActivity extends AppCompatActivity {
          */
         @RequiresApi(api = Build.VERSION_CODES.LOLLIPOP)
         private void testAddShape(Canvas canvas) {
-            mPath1 = new Path();
+            mPath1.reset();
             // 圆
             mPath1.addCircle(900, 300, 100, Path.Direction.CW);
             // 弧
@@ -95,7 +95,7 @@ public class PathPrimaryActivity extends AppCompatActivity {
          * @param canvas
          */
         private void testLineTo(Canvas canvas) {
-            mPath1 = new Path();
+            mPath1.reset();
             // WARN 如果不是 STROKE 画不出来
             mPaint.setStyle(Paint.Style.STROKE);
             mPaint.setStrokeWidth(10);
@@ -116,28 +116,28 @@ public class PathPrimaryActivity extends AppCompatActivity {
          */
         private void testFillType(Canvas canvas) {
             // 取非交集
-            mPath1 = new Path();
+            mPath1.reset();
             mPath1.addCircle(500, 100, 100, Path.Direction.CW);
             mPath1.addCircle(600, 100, 100, Path.Direction.CW);
             mPath1.setFillType(Path.FillType.EVEN_ODD);
             canvas.drawPath(mPath1, mPaint);
 
             // TODO 非交集的反向（目前会包含整个屏幕，与网上部分例子不符，尚未找到原因）
-            mPath1 = new Path();
+            mPath1.reset();
             mPath1.addCircle(500, 400, 100, Path.Direction.CW);
             mPath1.addCircle(600, 400, 100, Path.Direction.CW);
             mPath1.setFillType(Path.FillType.INVERSE_EVEN_ODD);
 //            canvas.drawPath(mPath1, mPaint);
 
             // TODO 路径内的反向 （目前会包含整个屏幕，与网上部分例子不符，尚未找到原因）
-            mPath1 = new Path();
+            mPath1.reset();
             mPath1.addCircle(500, 700, 100, Path.Direction.CW);
             mPath1.addCircle(600, 700, 100, Path.Direction.CW);
             mPath1.setFillType(Path.FillType.INVERSE_WINDING);
 //            canvas.drawPath(mPath1, mPaint);
 
             // 取路径内，默认效果
-            mPath1 = new Path();
+            mPath1.reset();
             mPath1.addCircle(500, 1000, 100, Path.Direction.CW);
             mPath1.addCircle(600, 1000, 100, Path.Direction.CW);
             mPath1.setFillType(Path.FillType.WINDING);
@@ -157,32 +157,32 @@ public class PathPrimaryActivity extends AppCompatActivity {
             mPath1.op(mPath2, Path.Op.DIFFERENCE);
             canvas.drawPath(mPath1, mPaint);
 
-            mPath1 = new Path();
-            mPath2 = new Path();
+            mPath1.reset();
+            mPath2.reset();
             mPath1.addCircle(100, 400, 100, Path.Direction.CW);
             mPath2.addCircle(200, 400, 100, Path.Direction.CW);
             // 路径1 路径2 取交集
             mPath1.op(mPath2, Path.Op.INTERSECT);
             canvas.drawPath(mPath1, mPaint);
 
-            mPath1 = new Path();
-            mPath2 = new Path();
+            mPath1.reset();
+            mPath2.reset();
             mPath1.addCircle(100, 700, 100, Path.Direction.CW);
             mPath2.addCircle(200, 700, 100, Path.Direction.CW);
             // 路径2 减去 路径1
             mPath1.op(mPath2, Path.Op.REVERSE_DIFFERENCE);
             canvas.drawPath(mPath1, mPaint);
 
-            mPath1 = new Path();
-            mPath2 = new Path();
+            mPath1.reset();
+            mPath2.reset();
             mPath1.addCircle(100, 1000, 100, Path.Direction.CW);
             mPath2.addCircle(200, 1000, 100, Path.Direction.CW);
             // 路径1 路径2 融合
             mPath1.op(mPath2, Path.Op.UNION);
             canvas.drawPath(mPath1, mPaint);
 
-            mPath1 = new Path();
-            mPath2 = new Path();
+            mPath1.reset();
+            mPath2.reset();
             mPath1.addCircle(100, 1300, 100, Path.Direction.CW);
             mPath2.addCircle(200, 1300, 100, Path.Direction.CW);
             // 路径1 路径2 取反交集
