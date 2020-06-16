@@ -6,6 +6,7 @@ import android.content.Intent;
 import android.os.Bundle;
 
 import com.jacken_liu.path.PathBezierCurveActivity;
+import com.jacken_liu.path.PathMeasureActivity;
 import com.jacken_liu.path.PathPrimaryActivity;
 
 public class MainActivity extends AppCompatActivity {
@@ -22,7 +23,8 @@ public class MainActivity extends AppCompatActivity {
 
 //        final Class toActivity = PathPrimaryActivity.class;
 //        final Class toActivity = PathEffectActivity.class;
-        final Class toActivity = PathBezierCurveActivity.class;
+//        final Class toActivity = PathBezierCurveActivity.class;
+        final Class toActivity = PathMeasureActivity.class;
 
         startActivity(new Intent(this, toActivity));
     }
