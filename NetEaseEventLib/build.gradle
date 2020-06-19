@@ -1,0 +1,14 @@
+apply plugin: 'java-library'
+apply plugin: 'kotlin'
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
+}
+//解决 Java 包编码乱码问题
+tasks.withType(JavaCompile){
+    options.encoding="UTF-8"
+}
+
+sourceCompatibility = "1.7"
+targetCompatibility = "1.7"
