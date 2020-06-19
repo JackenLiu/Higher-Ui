@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Higher-Ui.iml" filepath="$PROJECT_DIR$/.idea/modules/Higher-Ui.iml" group="Higher-Ui" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/NetEaseAnimatorLib/NetEaseAnimatorLib.iml" filepath="$PROJECT_DIR$/.idea/modules/NetEaseAnimatorLib/NetEaseAnimatorLib.iml" group="Higher-Ui/NetEaseAnimatorLib" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/NetEaseEventLib/NetEaseEventLib.iml" filepath="$PROJECT_DIR$/.idea/modules/NetEaseEventLib/NetEaseEventLib.iml" group="Higher-Ui/NetEaseEventLib" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="Higher-Ui/app" />
     </modules>

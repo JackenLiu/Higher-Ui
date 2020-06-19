@@ -1,3 +1,4 @@
+include ':NetEaseAnimatorLib'
 include ':NetEaseEventLib'
 include ':app'
 rootProject.name = "Higher-Ui"

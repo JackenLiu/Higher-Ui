@@ -5,6 +5,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.content.Intent;
 import android.os.Bundle;
 
+import com.jacken_liu.anim.AnimatorActivity;
 import com.jacken_liu.path.PathBezierCurveActivity;
 import com.jacken_liu.path.PathMeasureActivity;
 import com.jacken_liu.path.PathPrimaryActivity;
@@ -24,7 +25,9 @@ public class MainActivity extends AppCompatActivity {
 //        final Class toActivity = PathPrimaryActivity.class;
 //        final Class toActivity = PathEffectActivity.class;
 //        final Class toActivity = PathBezierCurveActivity.class;
-        final Class toActivity = PathMeasureActivity.class;
+//        final Class toActivity = PathMeasureActivity.class;
+
+        final Class toActivity = AnimatorActivity.class;
 
         startActivity(new Intent(this, toActivity));
     }
