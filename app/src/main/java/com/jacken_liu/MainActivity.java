@@ -6,6 +6,7 @@ import android.content.Intent;
 import android.os.Bundle;
 
 import com.jacken_liu.anim.AnimatorActivity;
+import com.jacken_liu.event.EventActivity;
 import com.jacken_liu.path.PathBezierCurveActivity;
 import com.jacken_liu.path.PathMeasureActivity;
 import com.jacken_liu.path.PathPrimaryActivity;
@@ -32,8 +33,11 @@ public class MainActivity extends AppCompatActivity {
 
 //        final Class toActivity = AnimatorActivity.class;
 
+//        final Class toActivity = EventActivity.class;
+
 //        final Class toActivity = PixelAdapterActivity.class;
 //        final Class toActivity = PercentAdapterActivity.class;
+//        final Class toActivity = DensityAdapterActivity.class;
         final Class toActivity = DensityAdapterActivity.class;
 
         startActivity(new Intent(this, toActivity));
