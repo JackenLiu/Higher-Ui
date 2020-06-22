@@ -9,6 +9,7 @@ import com.jacken_liu.anim.AnimatorActivity;
 import com.jacken_liu.path.PathBezierCurveActivity;
 import com.jacken_liu.path.PathMeasureActivity;
 import com.jacken_liu.path.PathPrimaryActivity;
+import com.jacken_liu.screen_adapter.pixel_adapter.PixelAdapterActivity;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -27,7 +28,9 @@ public class MainActivity extends AppCompatActivity {
 //        final Class toActivity = PathBezierCurveActivity.class;
 //        final Class toActivity = PathMeasureActivity.class;
 
-        final Class toActivity = AnimatorActivity.class;
+//        final Class toActivity = AnimatorActivity.class;
+
+        final Class toActivity = PixelAdapterActivity.class;
 
         startActivity(new Intent(this, toActivity));
     }
