@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".screen_adapter.pixel_adapter.PixelAdapterActivity"></activity>
+        <activity android:name=".screen_adapter.percent.PercentAdapterActivity"></activity>
+        <activity android:name=".screen_adapter.pixel_adapter.PixelAdapterActivity" />
         <activity android:name=".anim.AnimatorActivity" />
         <activity android:name=".path.PathMeasureActivity" />
         <activity android:name=".path.PathBezierCurveActivity" />
