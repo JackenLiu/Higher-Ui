@@ -1,0 +1,43 @@
+<resources>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:statusBarColor">@color/colorPrimaryDark</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+
+    <style name="MovieDetailActivityTheme" parent="AppTheme.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="colorPrimary">@color/white</item>
+    </style>
+
+    <style name="FloatActivityTheme" parent="AppTheme.NoActionBar">
+        <item name="android:statusBarColor">#00000000</item>
+        <item name="colorPrimary">@color/white</item>
+    </style>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <!-- 标题栏颜色 -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <!-- 状态栏颜色 -->
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <!-- 强调颜色 -->
+        <item name="colorAccent">@color/colorAccent</item>
+        <!-- 窗口颜色 -->
+        <item name="android:windowBackground">@android:color/white</item>
+        <!-- 虚拟导航栏颜色 -->
+        <item name="android:navigationBarColor">@color/colorPrimary</item>
+        <!--&lt;!&ndash;设置menu菜单的背景色&ndash;&gt;-->
+        <!--<item name="android:itemBackground">@color/black</item>-->
+        <!--&lt;!&ndash;设置Menu菜单的字体颜色&ndash;&gt;-->
+        <!--<item name="android:textColorPrimary">@android:color/darker_gray</item>-->
+        <!--&lt;!&ndash;设置Menu窗口不覆盖ToolBar视图&ndash;&gt;-->
+        <!--<item name="overlapAnchor">false</item>-->
+    </style>
+
+</resources>
