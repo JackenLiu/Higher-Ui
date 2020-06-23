@@ -9,7 +9,13 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".event.EventActivity"></activity>
+        <!-- 在判断设备是否有刘海区域时有用 -->
+        <meta-data
+            android:name="android.notch.support"
+            android:value="true" />
+
+        <activity android:name=".screen_adapter.notch.NotchAdapterActivity"></activity>
+        <activity android:name=".event.EventActivity" />
         <activity android:name=".screen_adapter.density.DensityAdapterActivity" />
         <activity android:name=".screen_adapter.percent.PercentAdapterActivity" />
         <activity android:name=".screen_adapter.pixel_adapter.PixelAdapterActivity" />

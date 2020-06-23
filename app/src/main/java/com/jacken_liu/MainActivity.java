@@ -11,6 +11,7 @@ import com.jacken_liu.path.PathBezierCurveActivity;
 import com.jacken_liu.path.PathMeasureActivity;
 import com.jacken_liu.path.PathPrimaryActivity;
 import com.jacken_liu.screen_adapter.density.DensityAdapterActivity;
+import com.jacken_liu.screen_adapter.notch.NotchAdapterActivity;
 import com.jacken_liu.screen_adapter.percent.PercentAdapterActivity;
 import com.jacken_liu.screen_adapter.pixel_adapter.PixelAdapterActivity;
 
@@ -35,10 +36,13 @@ public class MainActivity extends AppCompatActivity {
 
 //        final Class toActivity = EventActivity.class;
 
+        /*
+        屏幕适配
+         */
 //        final Class toActivity = PixelAdapterActivity.class;
 //        final Class toActivity = PercentAdapterActivity.class;
 //        final Class toActivity = DensityAdapterActivity.class;
-        final Class toActivity = DensityAdapterActivity.class;
+        final Class toActivity = NotchAdapterActivity.class;
 
         startActivity(new Intent(this, toActivity));
     }
