@@ -6,53 +6,19 @@
     </shared>
   </component>
   <component name="AndroidLogFilters">
-    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="error" />
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="42099905-53ac-4e1a-b6e6-94736274f37c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CustomRecyclerView/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CustomRecyclerView/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CustomRecyclerView/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CustomRecyclerView/src/androidTest/java/com/jacken_liu/custom_recyclerview/ExampleInstrumentedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CustomRecyclerView/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CustomRecyclerView/src/main/java/com/jacken_liu/custom_recyclerview/CircleImageView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CustomRecyclerView/src/main/java/com/jacken_liu/custom_recyclerview/FeedAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CustomRecyclerView/src/main/java/com/jacken_liu/custom_recyclerview/MainActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CustomRecyclerView/src/main/java/com/jacken_liu/custom_recyclerview/ScaleBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CustomRecyclerView/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CustomRecyclerView/src/main/res/drawable/avatar1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CustomRecyclerView/src/main/res/drawable/avatar2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CustomRecyclerView/src/main/res/drawable/avatar3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CustomRecyclerView/src/main/res/drawable/avatar4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CustomRecyclerView/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CustomRecyclerView/src/main/res/drawable/taeyeon_four.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CustomRecyclerView/src/main/res/drawable/taeyeon_one.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CustomRecyclerView/src/main/res/drawable/taeyeon_three.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CustomRecyclerView/src/main/res/drawable/taeyeon_two.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CustomRecyclerView/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CustomRecyclerView/src/main/res/layout/item_feed.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CustomRecyclerView/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CustomRecyclerView/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CustomRecyclerView/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CustomRecyclerView/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CustomRecyclerView/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CustomRecyclerView/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CustomRecyclerView/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CustomRecyclerView/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CustomRecyclerView/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CustomRecyclerView/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CustomRecyclerView/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CustomRecyclerView/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CustomRecyclerView/src/main/res/values/attrs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CustomRecyclerView/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CustomRecyclerView/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CustomRecyclerView/src/main/res/values/styles.xml" afterDir="false" />
+    <list default="true" id="42099905-53ac-4e1a-b6e6-94736274f37c" name="Default Changelist" comment="加入：带悬浮条效果的自定义 listView , 重写事件分发">
+      <change afterPath="$PROJECT_DIR$/CustomRecyclerView/src/main/java/com/jacken_liu/custom_recyclerview/ListAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CustomRecyclerView/src/main/java/com/jacken_liu/custom_recyclerview/NestedListView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CustomRecyclerView/src/main/java/com/jacken_liu/custom_recyclerview/SecondActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CustomRecyclerView/src/main/res/layout/activity_second.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/jacken_liu/material_design/参考 lib 包" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/jarAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomRecyclerView/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CustomRecyclerView/src/main/AndroidManifest.xml" afterDir="false" />
     </list>
     <list id="20a770b1-e073-49f4-96c4-dfa2b2ec3eea" name="ignore" comment="">
       <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" afterDir="false" />
@@ -125,12 +91,8 @@
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
+    <key name="android.template.-897020729">
       <recent name="com.jacken_liu.custom_recyclerview" />
-      <recent name="com.jacken_liu.screen_adapter.notch" />
-      <recent name="com.jacken_liu.screen_adapter.percent" />
-      <recent name="com.jacken_liu.path" />
-      <recent name="com.jacken_liu.paint" />
     </key>
     <key name="android.template.1874261029">
       <recent name="com.jacken_liu.path" />
@@ -138,12 +100,12 @@
     <key name="android.template.590822077">
       <recent name="com.jacken_liu.anim" />
     </key>
-    <key name="android.template.1923892521">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.jacken_liu.custom_recyclerview" />
       <recent name="com.jacken_liu.screen_adapter.notch" />
-      <recent name="com.jacken_liu.event" />
-      <recent name="com.jacken_liu.screen_adapter.density" />
       <recent name="com.jacken_liu.screen_adapter.percent" />
-      <recent name="com.jacken_liu.screen_adapter.pixel_adapter" />
+      <recent name="com.jacken_liu.path" />
+      <recent name="com.jacken_liu.paint" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Code Libiary\Github Personal\Higher-Ui\CustomRecyclerView\src\main\res\layout" />
@@ -151,6 +113,13 @@
       <recent name="D:\Code Libiary\Github Personal\Higher-Ui\CustomRecyclerView\src\main\res\drawable" />
       <recent name="D:\Code Libiary\Github Personal\Higher-Ui\Material_Design\src\main\res\layout" />
       <recent name="D:\Code Libiary\Github Personal\Higher-Ui\Material_Design\src\main\res" />
+    </key>
+    <key name="android.template.1923892521">
+      <recent name="com.jacken_liu.screen_adapter.notch" />
+      <recent name="com.jacken_liu.event" />
+      <recent name="com.jacken_liu.screen_adapter.density" />
+      <recent name="com.jacken_liu.screen_adapter.percent" />
+      <recent name="com.jacken_liu.screen_adapter.pixel_adapter" />
     </key>
   </component>
   <component name="RunManager" selected="Android App.CustomRecyclerView">
@@ -487,7 +456,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592910736546</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="加入：带悬浮条效果的自定义 recyclerView  module">
+      <created>1592967922698</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1592967922698</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -517,7 +493,8 @@
     <MESSAGE value="加入：事件 activity" />
     <MESSAGE value="加入：刘海屏适配" />
     <MESSAGE value="加入：material design 例子 module" />
-    <option name="LAST_COMMIT_MESSAGE" value="加入：material design 例子 module" />
+    <MESSAGE value="加入：带悬浮条效果的自定义 recyclerView  module" />
+    <option name="LAST_COMMIT_MESSAGE" value="加入：带悬浮条效果的自定义 recyclerView  module" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="198" key="#Inspections" timestamp="1592797934885">
@@ -528,10 +505,14 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="477" y="272" key="#PSD/0.0.1920.1080@0.0.1920.1080" timestamp="1592820127853" />
-    <state x="270" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1592966910236">
+    <state x="694" y="342" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592967982042">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="270" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1592966910236" />
+    <state x="694" y="342" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1592967982042" />
+    <state x="270" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1593004001690">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="270" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1593004001690" />
     <state x="464" y="465" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1592797613032">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -552,10 +533,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="815" y="304" key="AndroidProcessChooserDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1592967570380" />
-    <state x="533" y="132" key="CommitChangelistDialog2" timestamp="1592967860033">
+    <state x="533" y="132" key="CommitChangelistDialog2" timestamp="1593008771111">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="533" y="132" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1592967860033" />
+    <state x="533" y="132" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1593008771111" />
     <state width="462" height="466" key="DebuggerActiveHint" timestamp="1592811709781">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -564,22 +545,22 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="739" y="281" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1592912782468" />
-    <state width="1877" height="354" key="GridCell.Tab.0.bottom" timestamp="1592967580009">
+    <state width="1877" height="571" key="GridCell.Tab.0.bottom" timestamp="1593003743937">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="354" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1592967580009" />
-    <state width="1877" height="354" key="GridCell.Tab.0.center" timestamp="1592967580008">
+    <state width="1877" height="571" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1593003743937" />
+    <state width="1877" height="571" key="GridCell.Tab.0.center" timestamp="1593003743937">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="354" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1592967580008" />
-    <state width="1877" height="354" key="GridCell.Tab.0.left" timestamp="1592967580008">
+    <state width="1877" height="571" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1593003743937" />
+    <state width="1877" height="571" key="GridCell.Tab.0.left" timestamp="1593003743937">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="354" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1592967580008" />
-    <state width="1877" height="354" key="GridCell.Tab.0.right" timestamp="1592967580008">
+    <state width="1877" height="571" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1593003743937" />
+    <state width="1877" height="571" key="GridCell.Tab.0.right" timestamp="1593003743937">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="354" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1592967580008" />
+    <state width="1877" height="571" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1593003743937" />
     <state width="1877" height="354" key="GridCell.Tab.1.bottom" timestamp="1592967580009">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -596,6 +577,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1877" height="354" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1592967580009" />
+    <state x="540" y="283" key="IDE.errors.dialog" timestamp="1593003042487">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="540" y="283" key="IDE.errors.dialog/0.0.1920.1080@0.0.1920.1080" timestamp="1593003042487" />
     <state x="461" y="182" key="SettingsEditor" timestamp="1592747036458">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -608,10 +593,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="790" y="409" key="VCS.EditChangelistDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1592187264422" />
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1592910739289">
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1592967947920">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1592910739289" />
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1592967947920" />
     <state x="92" y="92" width="1736" height="896" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1592897659711">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -628,10 +613,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="690" y="307" key="extract.method.dialog/0.0.1920.1080@0.0.1920.1080" timestamp="1592294455475" />
-    <state x="636" y="274" width="647" height="532" key="find.popup" timestamp="1592904139756">
+    <state x="636" y="274" width="647" height="532" key="find.popup" timestamp="1592997184570">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="636" y="274" width="647" height="532" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1592904139756" />
+    <state x="636" y="274" width="647" height="532" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1592997184570" />
     <state x="549" y="280" key="psd.add.library.dependency.panel.dimension" timestamp="1592538516515">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>

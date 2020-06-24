@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SecondActivity">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_behavior="com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior">
+
+        <com.jacken_liu.custom_recyclerview.NestedListView
+            android:id="@+id/list_view"
+            android:background="@android:color/white"
+            tools:listitem="@layout/item_feed"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <!-- 悬浮条 -->
+        <RelativeLayout
+            android:background="@android:color/white"
+            android:id="@+id/suspension_bar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:id="@+id/tv_nickname"
+                android:layout_width="wrap_content"
+                android:layout_height="44dp"
+                android:layout_marginLeft="8dp"
+                android:layout_toRightOf="@id/iv_avatar"
+                android:gravity="center_vertical"
+                android:text="NetEase"
+                android:textSize="12sp" />
+
+            <View
+                android:id="@+id/top_divider"
+                android:layout_width="match_parent"
+                android:layout_height="0.2dp"
+                android:layout_below="@id/tv_nickname"
+                android:background="#33000000" />
+
+            <com.jacken_liu.custom_recyclerview.CircleImageView
+                android:id="@+id/iv_avatar"
+                android:layout_width="44dp"
+                android:layout_height="44dp"
+                android:padding="8dp"
+                android:src="@drawable/avatar1" />
+        </RelativeLayout>
+    </FrameLayout>
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <androidx.appcompat.widget.Toolbar
+            app:title="Toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?actionBarSize"
+            app:layout_scrollFlags="scroll|enterAlways" />
+
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:layout_gravity="bottom|right"
+        app:layout_behavior=".ScaleBehavior"
+        android:layout_margin="16dp" />
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>
