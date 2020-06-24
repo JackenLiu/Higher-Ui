@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CustomRecyclerView/CustomRecyclerView.iml" filepath="$PROJECT_DIR$/.idea/modules/CustomRecyclerView/CustomRecyclerView.iml" group="Higher-Ui/CustomRecyclerView" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Higher-Ui.iml" filepath="$PROJECT_DIR$/.idea/modules/Higher-Ui.iml" group="Higher-Ui" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Material_Design/Higher-Ui-Material_Design.iml" filepath="$PROJECT_DIR$/.idea/modules/Material_Design/Higher-Ui-Material_Design.iml" group="Higher-Ui/Material_Design" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/NetEaseAnimatorLib/NetEaseAnimatorLib.iml" filepath="$PROJECT_DIR$/.idea/modules/NetEaseAnimatorLib/NetEaseAnimatorLib.iml" group="Higher-Ui/NetEaseAnimatorLib" />
