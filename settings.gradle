@@ -1,3 +1,4 @@
+include ':ProgressBoat'
 include ':Immersive'
 include ':CustomRecyclerView'
 include ':Material_Design'

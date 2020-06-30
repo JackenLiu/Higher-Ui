@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Immersive/Immersive.iml" filepath="$PROJECT_DIR$/.idea/modules/Immersive/Immersive.iml" group="Higher-Ui/Immersive" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/NetEaseAnimatorLib/NetEaseAnimatorLib.iml" filepath="$PROJECT_DIR$/.idea/modules/NetEaseAnimatorLib/NetEaseAnimatorLib.iml" group="Higher-Ui/NetEaseAnimatorLib" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/NetEaseEventLib/NetEaseEventLib.iml" filepath="$PROJECT_DIR$/.idea/modules/NetEaseEventLib/NetEaseEventLib.iml" group="Higher-Ui/NetEaseEventLib" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ProgressBoat/ProgressBoat.iml" filepath="$PROJECT_DIR$/.idea/modules/ProgressBoat/ProgressBoat.iml" group="Higher-Ui/ProgressBoat" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="Higher-Ui/app" />
     </modules>
   </component>
