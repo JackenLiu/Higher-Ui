@@ -1,0 +1,31 @@
+沉浸式状态栏的实现
+1通过设置Theme主题设置状态栏透明
+    1) xml布局中设置：注意：4.4以前不支持沉浸式状态栏而5.0之后的状态栏默认会有一层阴影
+                    处理方式：设置<item name="android:windowTranslucentStatus">false</item>
+                                再设置状态栏颜色为透明色
+                                <item name="android:statusBarColor">@android:color/transparent</item>
+    2）代码中设置
+2、保证内容不扩充到状态栏区域
+   1) 再布局中 android:fitsSystemWindows="true"
+   2) 布局中添加占位状态栏
+   3) 直接在代码中设置 paddingTop 并添加占位状态栏
+3、侧滑菜单问题：
+    1）5.0 菜单有阴影：解决办法给 NavigationView 加入 app:insetForeground="#00000000"
+    2) 4.4 可以给最外层布局设置 fitSystemWidows 为 true 且设置 clipToPadding 为 false
+
+
+卡片布局
+    app:cardBackgroundColor="@color/colorPrimary"  设置 cardView 背景色
+    app:cardPreventCornerOverlap="false" 取消 Lollipop 以下版本的 padding
+    app:cardUseCompatPadding="true" 为 Lollipop 及其以上版本增加一个阴影 padding 内边距
+    app:cardCornerRadius="8dp" 设置 cardView 圆角效果
+    app:cardElevation="10dp" 设置 cardView Z 轴阴影大小
+    app:cardMaxElevation="6dp" 设置 cardView Z 轴最大阴影
+    app:contentPadding="10dp" 设置内容的内边距
+    app:contentPaddingBottom="12dp" 设置内容的底部内边距
+    app:contentPaddingLeft="12dp" 设置内容的左边内边距
+    app:contentPaddingRight="12dp" 设置内容的右边内边距
+    app:contentPaddingTop="12dp" 设置内容的顶部内边距
+
+    android:clickable="true"
+    android:foreground="?attr/selectableItemBackground" 添加点击效果

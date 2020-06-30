@@ -10,15 +10,55 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="42099905-53ac-4e1a-b6e6-94736274f37c" name="Default Changelist" comment="加入：带悬浮条效果的自定义 listView , 重写事件分发">
-      <change afterPath="$PROJECT_DIR$/CustomRecyclerView/src/main/java/com/jacken_liu/custom_recyclerview/ListAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CustomRecyclerView/src/main/java/com/jacken_liu/custom_recyclerview/NestedListView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CustomRecyclerView/src/main/java/com/jacken_liu/custom_recyclerview/SecondActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CustomRecyclerView/src/main/res/layout/activity_second.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/jacken_liu/material_design/参考 lib 包" afterDir="false" />
+    <list default="true" id="42099905-53ac-4e1a-b6e6-94736274f37c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Immersive/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Immersive/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Immersive/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Immersive/src/androidTest/java/com/jacken_liu/immersive/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Immersive/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Immersive/src/main/java/com/jacken_liu/immersive/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Immersive/src/main/java/com/jacken_liu/immersive/SecondActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Immersive/src/main/java/com/jacken_liu/immersive/note" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Immersive/src/main/res/drawable-v21/ic_menu_camera.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Immersive/src/main/res/drawable-v21/ic_menu_gallery.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Immersive/src/main/res/drawable-v21/ic_menu_slideshow.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Immersive/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Immersive/src/main/res/drawable/banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Immersive/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Immersive/src/main/res/drawable/side_nav_bar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Immersive/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Immersive/src/main/res/layout/activity_second.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Immersive/src/main/res/layout/app_bar_second.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Immersive/src/main/res/layout/content_second.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Immersive/src/main/res/layout/nav_header_second.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Immersive/src/main/res/menu/activity_second_drawer.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Immersive/src/main/res/menu/second.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Immersive/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Immersive/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Immersive/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Immersive/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Immersive/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Immersive/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Immersive/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Immersive/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Immersive/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Immersive/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Immersive/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Immersive/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Immersive/src/main/res/navigation/mobile_navigation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Immersive/src/main/res/values-v21/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Immersive/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Immersive/src/main/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Immersive/src/main/res/values/drawables.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Immersive/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Immersive/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Immersive/src/test/java/com/jacken_liu/immersive/ExampleUnitTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CustomRecyclerView/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CustomRecyclerView/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
     </list>
     <list id="20a770b1-e073-49f4-96c4-dfa2b2ec3eea" name="ignore" comment="">
       <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" afterDir="false" />
@@ -41,7 +81,7 @@
   <component name="CoverageViewManager">
     <option name="myElementSize" value="241" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_3a_API_29" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Android_4.4" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -58,8 +98,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="valueResourceFile" />
         <option value="Class" />
+        <option value="valueResourceFile" />
       </list>
     </option>
   </component>
@@ -78,13 +118,14 @@
     <property name="DEBUGGABLE_DEVICE" value="Pixel_3a_API_29 [emulator-5554]" />
     <property name="DEBUGGABLE_PROCESS" value="com.jacken_liu.custom_recyclerview" />
     <property name="DEBUGGER_ID" value="Auto" />
-    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_3a_API_29" />
-    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-06-23T07:37:57.227Z" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Android_4.4" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-06-30T02:09:58.377Z" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHOW_ALL_PROCESSES" value="false" />
+    <property name="SelectDeploymentTargetsDialog.selectedDevices" value="Android_9.0&#10;Android_4.4" />
     <property name="android.sdk.path" value="D:/Program/Android/Sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/CustomRecyclerView/src/main/res/layout" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Immersive/src/main/res/menu" />
     <property name="project.structure.last.edited" value="Dependencies" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.24746193" />
@@ -94,11 +135,21 @@
     <key name="android.template.-897020729">
       <recent name="com.jacken_liu.custom_recyclerview" />
     </key>
+    <key name="android.template.1923892521">
+      <recent name="com.jacken_liu.screen_adapter.notch" />
+      <recent name="com.jacken_liu.event" />
+      <recent name="com.jacken_liu.screen_adapter.density" />
+      <recent name="com.jacken_liu.screen_adapter.percent" />
+      <recent name="com.jacken_liu.screen_adapter.pixel_adapter" />
+    </key>
     <key name="android.template.1874261029">
       <recent name="com.jacken_liu.path" />
     </key>
     <key name="android.template.590822077">
       <recent name="com.jacken_liu.anim" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Code Libiary\Github Personal\Higher-Ui\Immersive\src\main\res\drawable" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.jacken_liu.custom_recyclerview" />
@@ -108,21 +159,14 @@
       <recent name="com.jacken_liu.paint" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Code Libiary\Github Personal\Higher-Ui\Immersive\src\main\res\menu" />
+      <recent name="D:\Code Libiary\Github Personal\Higher-Ui\Immersive\src\main\res\layout" />
+      <recent name="D:\Code Libiary\Github Personal\Higher-Ui\Immersive\src\main\java\com\jacken_liu\immersive" />
+      <recent name="D:\Code Libiary\Github Personal\Higher-Ui\Immersive\src\main\res\drawable-v24" />
       <recent name="D:\Code Libiary\Github Personal\Higher-Ui\CustomRecyclerView\src\main\res\layout" />
-      <recent name="D:\Code Libiary\Github Personal\Higher-Ui\CustomRecyclerView\src\main\res\values" />
-      <recent name="D:\Code Libiary\Github Personal\Higher-Ui\CustomRecyclerView\src\main\res\drawable" />
-      <recent name="D:\Code Libiary\Github Personal\Higher-Ui\Material_Design\src\main\res\layout" />
-      <recent name="D:\Code Libiary\Github Personal\Higher-Ui\Material_Design\src\main\res" />
-    </key>
-    <key name="android.template.1923892521">
-      <recent name="com.jacken_liu.screen_adapter.notch" />
-      <recent name="com.jacken_liu.event" />
-      <recent name="com.jacken_liu.screen_adapter.density" />
-      <recent name="com.jacken_liu.screen_adapter.percent" />
-      <recent name="com.jacken_liu.screen_adapter.pixel_adapter" />
     </key>
   </component>
-  <component name="RunManager" selected="Android App.CustomRecyclerView">
+  <component name="RunManager" selected="Android App.Immersive">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -183,6 +227,57 @@
     </configuration>
     <configuration name="Higher-Ui-Material_Design" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="Higher-Ui-Material_Design" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Immersive" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="Immersive" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
       <option name="DEPLOY_AS_INSTANT" value="false" />
@@ -463,7 +558,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592967922698</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="加入：带悬浮条效果的自定义 listView , 重写事件分发">
+      <created>1593008784172</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1593008784172</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -494,7 +596,8 @@
     <MESSAGE value="加入：刘海屏适配" />
     <MESSAGE value="加入：material design 例子 module" />
     <MESSAGE value="加入：带悬浮条效果的自定义 recyclerView  module" />
-    <option name="LAST_COMMIT_MESSAGE" value="加入：带悬浮条效果的自定义 recyclerView  module" />
+    <MESSAGE value="加入：带悬浮条效果的自定义 listView , 重写事件分发" />
+    <option name="LAST_COMMIT_MESSAGE" value="加入：带悬浮条效果的自定义 listView , 重写事件分发" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="198" key="#Inspections" timestamp="1592797934885">
@@ -505,14 +608,18 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="477" y="272" key="#PSD/0.0.1920.1080@0.0.1920.1080" timestamp="1592820127853" />
-    <state x="694" y="342" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592967982042">
+    <state x="694" y="342" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593484701960">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="694" y="342" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1592967982042" />
+    <state x="694" y="342" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1593484701960" />
     <state x="270" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1593004001690">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="270" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1593004001690" />
+    <state x="640" y="266" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1593480902616">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="640" y="266" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1593480902616" />
     <state x="464" y="465" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1592797613032">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -533,34 +640,34 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="815" y="304" key="AndroidProcessChooserDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1592967570380" />
-    <state x="533" y="132" key="CommitChangelistDialog2" timestamp="1593008771111">
+    <state x="533" y="132" key="CommitChangelistDialog2" timestamp="1593494165096">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="533" y="132" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1593008771111" />
+    <state x="533" y="132" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1593494165096" />
     <state width="462" height="466" key="DebuggerActiveHint" timestamp="1592811709781">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="462" height="466" key="DebuggerActiveHint/0.0.1920.1080@0.0.1920.1080" timestamp="1592811709781" />
-    <state x="739" y="281" key="FileChooserDialogImpl" timestamp="1592912782468">
+    <state x="739" y="281" key="FileChooserDialogImpl" timestamp="1593009050008">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="739" y="281" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1592912782468" />
-    <state width="1877" height="571" key="GridCell.Tab.0.bottom" timestamp="1593003743937">
+    <state x="739" y="281" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1593009050008" />
+    <state width="1877" height="452" key="GridCell.Tab.0.bottom" timestamp="1593489296049">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="571" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1593003743937" />
-    <state width="1877" height="571" key="GridCell.Tab.0.center" timestamp="1593003743937">
+    <state width="1877" height="452" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1593489296049" />
+    <state width="1877" height="452" key="GridCell.Tab.0.center" timestamp="1593489296049">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="571" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1593003743937" />
-    <state width="1877" height="571" key="GridCell.Tab.0.left" timestamp="1593003743937">
+    <state width="1877" height="452" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1593489296049" />
+    <state width="1877" height="452" key="GridCell.Tab.0.left" timestamp="1593489296049">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="571" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1593003743937" />
-    <state width="1877" height="571" key="GridCell.Tab.0.right" timestamp="1593003743937">
+    <state width="1877" height="452" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1593489296049" />
+    <state width="1877" height="452" key="GridCell.Tab.0.right" timestamp="1593489296049">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="571" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1593003743937" />
+    <state width="1877" height="452" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1593489296049" />
     <state width="1877" height="354" key="GridCell.Tab.1.bottom" timestamp="1592967580009">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -593,14 +700,14 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="790" y="409" key="VCS.EditChangelistDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1592187264422" />
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1592967947920">
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1593008792307">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1592967947920" />
-    <state x="92" y="92" width="1736" height="896" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1592897659711">
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1593008792307" />
+    <state x="92" y="92" width="1736" height="896" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1593490226372">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="92" y="92" width="1736" height="896" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1592897659711" />
+    <state x="92" y="92" width="1736" height="896" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1593490226372" />
     <state x="92" y="92" width="1736" height="896" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1592902468044">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>

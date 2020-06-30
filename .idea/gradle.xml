@@ -12,6 +12,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/CustomRecyclerView" />
+            <option value="$PROJECT_DIR$/Immersive" />
             <option value="$PROJECT_DIR$/Material_Design" />
             <option value="$PROJECT_DIR$/NetEaseAnimatorLib" />
             <option value="$PROJECT_DIR$/NetEaseEventLib" />
