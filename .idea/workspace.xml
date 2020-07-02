@@ -6,16 +6,48 @@
     </shared>
   </component>
   <component name="AndroidLogFilters">
-    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="======" />
+    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="212460766" />
     <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="42099905-53ac-4e1a-b6e6-94736274f37c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/MyRecyclerView/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyRecyclerView/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyRecyclerView/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyRecyclerView/src/androidTest/java/com/jacken_liu/myrecyclerview/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyRecyclerView/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyRecyclerView/src/main/java/com/jacken_liu/myrecyclerview/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyRecyclerView/src/main/java/com/jacken_liu/myrecyclerview/Recycler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyRecyclerView/src/main/java/com/jacken_liu/myrecyclerview/RecyclerView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyRecyclerView/src/main/java/com/jacken_liu/myrecyclerview/note" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyRecyclerView/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyRecyclerView/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyRecyclerView/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyRecyclerView/src/main/res/layout/item_table.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyRecyclerView/src/main/res/layout/item_table2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyRecyclerView/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyRecyclerView/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyRecyclerView/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyRecyclerView/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyRecyclerView/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyRecyclerView/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyRecyclerView/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyRecyclerView/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyRecyclerView/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyRecyclerView/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyRecyclerView/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyRecyclerView/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyRecyclerView/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyRecyclerView/src/main/res/values/ids.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyRecyclerView/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyRecyclerView/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyRecyclerView/src/test/java/com/jacken_liu/myrecyclerview/ExampleUnitTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/jacken_liu/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/jacken_liu/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/jacken_liu/event/EventActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/jacken_liu/event/EventActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
     </list>
     <list id="20a770b1-e073-49f4-96c4-dfa2b2ec3eea" name="ignore" comment="">
       <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/executionHistory/executionHistory.bin" afterDir="false" />
@@ -83,7 +115,7 @@
     <property name="SelectDeploymentTargetsDialog.selectedDevices" value="Android_9.0&#10;Android_4.4" />
     <property name="android.sdk.path" value="D:/Program/Android/Sdk" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/ProgressBoat/src/main/res/drawable" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/ProgressBoat/src/main/res/drawable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/MyRecyclerView/src/main/res/layout" />
     <property name="project.structure.last.edited" value="Dependencies" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.24746193" />
@@ -117,14 +149,17 @@
       <recent name="com.jacken_liu.paint" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Code Libiary\Github Personal\Higher-Ui\MyRecyclerView\src\main\res\layout" />
+      <recent name="D:\Code Libiary\Github Personal\Higher-Ui\MyRecyclerView\src\main\java\com\jacken_liu\myrecyclerview" />
       <recent name="D:\Code Libiary\Github Personal\Higher-Ui\ProgressBoat\src\main\res\drawable" />
       <recent name="D:\Code Libiary\Github Personal\Higher-Ui\Immersive\src\main\res\menu" />
       <recent name="D:\Code Libiary\Github Personal\Higher-Ui\Immersive\src\main\res\layout" />
-      <recent name="D:\Code Libiary\Github Personal\Higher-Ui\Immersive\src\main\java\com\jacken_liu\immersive" />
-      <recent name="D:\Code Libiary\Github Personal\Higher-Ui\Immersive\src\main\res\drawable-v24" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.jacken_liu.myrecyclerview" />
     </key>
   </component>
-  <component name="RunManager" selected="Android App.app">
+  <component name="RunManager" selected="Android App.MyRecyclerView">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -236,6 +271,57 @@
     </configuration>
     <configuration name="Immersive" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="Immersive" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyRecyclerView" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="MyRecyclerView" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
       <option name="DEPLOY_AS_INSTANT" value="false" />
@@ -588,7 +674,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593523897256</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="加入：textview settext 会发生什么？例子">
+      <created>1593570207150</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1593570207150</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -622,7 +715,8 @@
     <MESSAGE value="加入：带悬浮条效果的自定义 listView , 重写事件分发" />
     <MESSAGE value="加入：沉浸式与 CardView 效果" />
     <MESSAGE value="加入：自定义 view ，加载的漂浮小船" />
-    <option name="LAST_COMMIT_MESSAGE" value="加入：自定义 view ，加载的漂浮小船" />
+    <MESSAGE value="加入：textview settext 会发生什么？例子" />
+    <option name="LAST_COMMIT_MESSAGE" value="加入：textview settext 会发生什么？例子" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="198" key="#Inspections" timestamp="1592797934885">
@@ -637,9 +731,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="694" y="342" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1593484701960" />
-    <state x="270" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1593526145425">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="180" y="89" key="#com.intellij.ide.util.MemberChooser" timestamp="1593575406416">
+      <screen x="0" y="0" width="1280" height="720" />
     </state>
+    <state x="180" y="89" key="#com.intellij.ide.util.MemberChooser/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1593575406416" />
     <state x="270" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1593526145425" />
     <state x="640" y="266" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1593480902616">
       <screen x="0" y="0" width="1920" height="1080" />
@@ -661,53 +756,66 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="715" y="242" key="#xdebugger.evaluate/0.0.1920.1080@0.0.1920.1080" timestamp="1593520652126" />
+    <state x="221" y="116" key="AndroidCreateResourceFileDialog" timestamp="1593592751543">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="221" y="116" key="AndroidCreateResourceFileDialog/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1593592751543" />
     <state x="815" y="304" key="AndroidProcessChooserDialog" timestamp="1592967570380">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="815" y="304" key="AndroidProcessChooserDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1592967570380" />
-    <state x="533" y="132" key="CommitChangelistDialog2" timestamp="1593570172379">
+    <state x="533" y="132" key="CommitChangelistDialog2" timestamp="1593570203128">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="533" y="132" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1593570172379" />
-    <state width="462" height="466" key="DebuggerActiveHint" timestamp="1592811709781">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="533" y="132" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1593570203128" />
+    <state width="425" height="311" key="DebuggerActiveHint" timestamp="1593657219569">
+      <screen x="0" y="0" width="1280" height="720" />
     </state>
+    <state width="425" height="311" key="DebuggerActiveHint/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1593657219569" />
     <state width="462" height="466" key="DebuggerActiveHint/0.0.1920.1080@0.0.1920.1080" timestamp="1592811709781" />
-    <state x="739" y="281" key="FileChooserDialogImpl" timestamp="1593505092679">
+    <state x="739" y="281" key="FileChooserDialogImpl" timestamp="1593570300084">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="739" y="281" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1593505092679" />
-    <state width="1877" height="452" key="GridCell.Tab.0.bottom" timestamp="1593569995941">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="739" y="281" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1593570300084" />
+    <state width="1238" height="254" key="GridCell.Tab.0.bottom" timestamp="1593658611675">
+      <screen x="0" y="0" width="1280" height="720" />
     </state>
+    <state width="1238" height="254" key="GridCell.Tab.0.bottom/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1593658611675" />
     <state width="1877" height="452" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1593569995941" />
-    <state width="1877" height="452" key="GridCell.Tab.0.center" timestamp="1593569995940">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1238" height="254" key="GridCell.Tab.0.center" timestamp="1593658611675">
+      <screen x="0" y="0" width="1280" height="720" />
     </state>
+    <state width="1238" height="254" key="GridCell.Tab.0.center/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1593658611675" />
     <state width="1877" height="452" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1593569995940" />
-    <state width="1877" height="452" key="GridCell.Tab.0.left" timestamp="1593569995940">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1238" height="254" key="GridCell.Tab.0.left" timestamp="1593658611674">
+      <screen x="0" y="0" width="1280" height="720" />
     </state>
+    <state width="1238" height="254" key="GridCell.Tab.0.left/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1593658611674" />
     <state width="1877" height="452" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1593569995940" />
-    <state width="1877" height="452" key="GridCell.Tab.0.right" timestamp="1593569995941">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1238" height="254" key="GridCell.Tab.0.right" timestamp="1593658611675">
+      <screen x="0" y="0" width="1280" height="720" />
     </state>
+    <state width="1238" height="254" key="GridCell.Tab.0.right/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1593658611675" />
     <state width="1877" height="452" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1593569995941" />
-    <state width="1877" height="354" key="GridCell.Tab.1.bottom" timestamp="1593520683157">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1238" height="281" key="GridCell.Tab.1.bottom" timestamp="1593657257552">
+      <screen x="0" y="0" width="1280" height="720" />
     </state>
+    <state width="1238" height="281" key="GridCell.Tab.1.bottom/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1593657257552" />
     <state width="1877" height="354" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1593520683157" />
-    <state width="1877" height="354" key="GridCell.Tab.1.center" timestamp="1593520683157">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1238" height="281" key="GridCell.Tab.1.center" timestamp="1593657257552">
+      <screen x="0" y="0" width="1280" height="720" />
     </state>
+    <state width="1238" height="281" key="GridCell.Tab.1.center/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1593657257552" />
     <state width="1877" height="354" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1593520683157" />
-    <state width="1877" height="354" key="GridCell.Tab.1.left" timestamp="1593520683157">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1238" height="281" key="GridCell.Tab.1.left" timestamp="1593657257552">
+      <screen x="0" y="0" width="1280" height="720" />
     </state>
+    <state width="1238" height="281" key="GridCell.Tab.1.left/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1593657257552" />
     <state width="1877" height="354" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1593520683157" />
-    <state width="1877" height="354" key="GridCell.Tab.1.right" timestamp="1593520683157">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1238" height="281" key="GridCell.Tab.1.right" timestamp="1593657257552">
+      <screen x="0" y="0" width="1280" height="720" />
     </state>
+    <state width="1238" height="281" key="GridCell.Tab.1.right/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1593657257552" />
     <state width="1877" height="354" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1593520683157" />
     <state x="540" y="283" key="IDE.errors.dialog" timestamp="1593003042487">
       <screen x="0" y="0" width="1920" height="1080" />
@@ -749,9 +857,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="690" y="307" key="extract.method.dialog/0.0.1920.1080@0.0.1920.1080" timestamp="1592294455475" />
-    <state x="637" y="276" width="647" height="532" key="find.popup" timestamp="1593507339660">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="425" y="0" width="638" height="720" key="find.popup" timestamp="1593594678481">
+      <screen x="0" y="0" width="1280" height="720" />
     </state>
+    <state x="425" y="0" width="638" height="720" key="find.popup/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1593594678481" />
     <state x="637" y="276" width="647" height="532" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1593507339660" />
     <state x="549" y="280" key="psd.add.library.dependency.panel.dimension" timestamp="1592538516515">
       <screen x="0" y="0" width="1920" height="1080" />
@@ -761,9 +870,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="671" y="182" key="psd.add.module.dependency.panel.dimension/0.0.1920.1080@0.0.1920.1080" timestamp="1592820126534" />
-    <state x="410" y="240" width="672" height="678" key="search.everywhere.popup" timestamp="1593522513290">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="273" y="160" width="670" height="452" key="search.everywhere.popup" timestamp="1593580036404">
+      <screen x="0" y="0" width="1280" height="720" />
     </state>
+    <state x="273" y="160" width="670" height="452" key="search.everywhere.popup/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1593580036404" />
     <state x="410" y="240" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1593522513290" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
