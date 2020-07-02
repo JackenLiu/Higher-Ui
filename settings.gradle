@@ -1,3 +1,4 @@
+include ':SVGMap'
 include ':MyRecyclerView'
 include ':ProgressBoat'
 include ':Immersive'
