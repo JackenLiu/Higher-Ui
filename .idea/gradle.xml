@@ -13,12 +13,14 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/CustomRecyclerView" />
             <option value="$PROJECT_DIR$/Immersive" />
+            <option value="$PROJECT_DIR$/JavaReview" />
             <option value="$PROJECT_DIR$/Material_Design" />
             <option value="$PROJECT_DIR$/MyRecyclerView" />
             <option value="$PROJECT_DIR$/NetEaseAnimatorLib" />
             <option value="$PROJECT_DIR$/NetEaseEventLib" />
             <option value="$PROJECT_DIR$/ProgressBoat" />
             <option value="$PROJECT_DIR$/SVGMap" />
+            <option value="$PROJECT_DIR$/Vlayout" />
             <option value="$PROJECT_DIR$/app" />
           </set>
         </option>

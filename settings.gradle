@@ -1,3 +1,5 @@
+include ':JavaReview'
+include ':Vlayout'
 include ':SVGMap'
 include ':MyRecyclerView'
 include ':ProgressBoat'

@@ -4,13 +4,15 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/CustomRecyclerView/CustomRecyclerView.iml" filepath="$PROJECT_DIR$/.idea/modules/CustomRecyclerView/CustomRecyclerView.iml" group="Higher-Ui/CustomRecyclerView" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Higher-Ui.iml" filepath="$PROJECT_DIR$/.idea/modules/Higher-Ui.iml" group="Higher-Ui" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Material_Design/Higher-Ui-Material_Design.iml" filepath="$PROJECT_DIR$/.idea/modules/Material_Design/Higher-Ui-Material_Design.iml" group="Higher-Ui/Material_Design" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Immersive/Immersive.iml" filepath="$PROJECT_DIR$/.idea/modules/Immersive/Immersive.iml" group="Higher-Ui/Immersive" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaReview/JavaReview.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaReview/JavaReview.iml" group="Higher-Ui/JavaReview" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Material_Design/Material_Design.iml" filepath="$PROJECT_DIR$/.idea/modules/Material_Design/Material_Design.iml" group="Higher-Ui/Material_Design" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/MyRecyclerView/MyRecyclerView.iml" filepath="$PROJECT_DIR$/.idea/modules/MyRecyclerView/MyRecyclerView.iml" group="Higher-Ui/MyRecyclerView" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/NetEaseAnimatorLib/NetEaseAnimatorLib.iml" filepath="$PROJECT_DIR$/.idea/modules/NetEaseAnimatorLib/NetEaseAnimatorLib.iml" group="Higher-Ui/NetEaseAnimatorLib" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/NetEaseEventLib/NetEaseEventLib.iml" filepath="$PROJECT_DIR$/.idea/modules/NetEaseEventLib/NetEaseEventLib.iml" group="Higher-Ui/NetEaseEventLib" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/ProgressBoat/ProgressBoat.iml" filepath="$PROJECT_DIR$/.idea/modules/ProgressBoat/ProgressBoat.iml" group="Higher-Ui/ProgressBoat" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/SVGMap/SVGMap.iml" filepath="$PROJECT_DIR$/.idea/modules/SVGMap/SVGMap.iml" group="Higher-Ui/SVGMap" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Vlayout/Vlayout.iml" filepath="$PROJECT_DIR$/.idea/modules/Vlayout/Vlayout.iml" group="Higher-Ui/Vlayout" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="Higher-Ui/app" />
     </modules>
   </component>
