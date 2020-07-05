@@ -11,74 +11,67 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="42099905-53ac-4e1a-b6e6-94736274f37c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/JavaReview/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaReview/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaReview/src/main/java/com/jacken_liu/javareview/MainClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaReview/src/main/java/com/jacken_liu/javareview/extend/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaReview/src/main/java/com/jacken_liu/javareview/extend/Father.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vlayout/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vlayout/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vlayout/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vlayout/src/androidTest/java/com/jacken_liu/vlayout/ExampleInstrumentedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vlayout/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vlayout/src/main/java/com/jacken_liu/vlayout/BaseDelegateAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vlayout/src/main/java/com/jacken_liu/vlayout/BaseViewHolder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vlayout/src/main/java/com/jacken_liu/vlayout/GlideImageLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vlayout/src/main/java/com/jacken_liu/vlayout/MainActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vlayout/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vlayout/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vlayout/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vlayout/src/main/res/layout/vlayout_banner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vlayout/src/main/res/layout/vlayout_goods.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vlayout/src/main/res/layout/vlayout_grid.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vlayout/src/main/res/layout/vlayout_menu.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vlayout/src/main/res/layout/vlayout_news.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vlayout/src/main/res/layout/vlayout_table.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vlayout/src/main/res/layout/vlayout_title.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vlayout/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vlayout/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vlayout/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vlayout/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vlayout/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vlayout/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vlayout/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vlayout/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vlayout/src/main/res/mipmap-xxhdpi/flashsale1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vlayout/src/main/res/mipmap-xxhdpi/flashsale2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vlayout/src/main/res/mipmap-xxhdpi/flashsale3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vlayout/src/main/res/mipmap-xxhdpi/flashsale4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vlayout/src/main/res/mipmap-xxhdpi/home1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vlayout/src/main/res/mipmap-xxhdpi/home2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vlayout/src/main/res/mipmap-xxhdpi/home4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vlayout/src/main/res/mipmap-xxhdpi/ic_auction.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vlayout/src/main/res/mipmap-xxhdpi/ic_chaoshi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vlayout/src/main/res/mipmap-xxhdpi/ic_classify.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vlayout/src/main/res/mipmap-xxhdpi/ic_ju_hua_suan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vlayout/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vlayout/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vlayout/src/main/res/mipmap-xxhdpi/ic_news.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vlayout/src/main/res/mipmap-xxhdpi/ic_tao_gold.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vlayout/src/main/res/mipmap-xxhdpi/ic_tian_mao.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vlayout/src/main/res/mipmap-xxhdpi/ic_tian_mao_guoji.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vlayout/src/main/res/mipmap-xxhdpi/ic_travel.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vlayout/src/main/res/mipmap-xxhdpi/ic_voucher_center.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vlayout/src/main/res/mipmap-xxhdpi/ic_waimai.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vlayout/src/main/res/mipmap-xxhdpi/img_title_bar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vlayout/src/main/res/mipmap-xxhdpi/img_wo_tao_wojia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vlayout/src/main/res/mipmap-xxhdpi/item1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vlayout/src/main/res/mipmap-xxhdpi/item2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vlayout/src/main/res/mipmap-xxhdpi/item3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vlayout/src/main/res/mipmap-xxhdpi/item4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vlayout/src/main/res/mipmap-xxhdpi/item5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vlayout/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vlayout/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vlayout/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vlayout/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vlayout/src/main/res/values/styles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Vlayout/src/test/java/com/jacken_liu/vlayout/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NEMusicList/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NEMusicList/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NEMusicList/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NEMusicList/src/androidTest/java/com/jacken_liu/nemusiclist/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NEMusicList/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NEMusicList/src/main/java/com/jacken_liu/nemusiclist/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NEMusicList/src/main/java/com/jacken_liu/nemusiclist/ui/RoundRectImageView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NEMusicList/src/main/java/com/jacken_liu/nemusiclist/ui/UIRelativeLayout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NEMusicList/src/main/java/com/jacken_liu/nemusiclist/ui/UIUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NEMusicList/src/main/java/com/jacken_liu/nemusiclist/ui/ViewCalculateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NEMusicList/src/main/java/com/jacken_liu/nemusiclist/util/FastBlurUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NEMusicList/src/main/java/com/jacken_liu/nemusiclist/util/StatusBarUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NEMusicList/src/main/java/com/jacken_liu/nemusiclist/util/ToolbarUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NEMusicList/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NEMusicList/src/main/res/drawable-xxhdpi/arr_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NEMusicList/src/main/res/drawable-xxhdpi/handle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NEMusicList/src/main/res/drawable-xxhdpi/header_autho.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NEMusicList/src/main/res/drawable-xxhdpi/icon_back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NEMusicList/src/main/res/drawable-xxhdpi/more.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NEMusicList/src/main/res/drawable-xxhdpi/ne_more.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NEMusicList/src/main/res/drawable-xxhdpi/ne_player.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NEMusicList/src/main/res/drawable-xxhdpi/ne_sq.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NEMusicList/src/main/res/drawable-xxhdpi/ne_vip.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NEMusicList/src/main/res/drawable-xxhdpi/seacher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NEMusicList/src/main/res/drawable-xxhdpi/shape_ahpha.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NEMusicList/src/main/res/drawable-xxhdpi/shape_white.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NEMusicList/src/main/res/drawable-xxhdpi/share.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NEMusicList/src/main/res/drawable-xxhdpi/sort.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NEMusicList/src/main/res/drawable-xxhdpi/stackblur_default.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NEMusicList/src/main/res/drawable-xxhdpi/track.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NEMusicList/src/main/res/drawable/ic_comment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NEMusicList/src/main/res/drawable/ic_download.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NEMusicList/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NEMusicList/src/main/res/drawable/ic_search.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NEMusicList/src/main/res/drawable/ic_sellect_more.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NEMusicList/src/main/res/drawable/ic_setting.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NEMusicList/src/main/res/drawable/ic_share.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NEMusicList/src/main/res/drawable/poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NEMusicList/src/main/res/drawable/shape_ahpha.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NEMusicList/src/main/res/drawable/shape_white.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NEMusicList/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NEMusicList/src/main/res/layout/item_list.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NEMusicList/src/main/res/layout/item_lv_header.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NEMusicList/src/main/res/menu/menu_music.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NEMusicList/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NEMusicList/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NEMusicList/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NEMusicList/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NEMusicList/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NEMusicList/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NEMusicList/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NEMusicList/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NEMusicList/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NEMusicList/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NEMusicList/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NEMusicList/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NEMusicList/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NEMusicList/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NEMusicList/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NEMusicList/src/test/java/com/jacken_liu/nemusiclist/ExampleUnitTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/jarAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -153,7 +146,7 @@
     <property name="SelectDeploymentTargetsDialog.selectedDevices" value="Android_9.0&#10;Android_4.4" />
     <property name="android.sdk.path" value="D:/Program/Android/Sdk" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/ProgressBoat/src/main/res/drawable" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Vlayout/src/main/res/layout" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/NEMusicList/src/main/java/com/jacken_liu/nemusiclist" />
     <property name="project.structure.last.edited" value="Dependencies" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.24746193" />
@@ -187,18 +180,18 @@
       <recent name="com.jacken_liu.paint" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Code Libiary\Github Personal\Higher-Ui\NEMusicList\src\main\java\com\jacken_liu\nemusiclist" />
+      <recent name="D:\Code Libiary\Github Personal\Higher-Ui\NEMusicList\src\main\res" />
       <recent name="D:\Code Libiary\Github Personal\Higher-Ui\Vlayout\src\main\res\layout" />
       <recent name="D:\Code Libiary\Github Personal\Higher-Ui\Vlayout\src\main\res\mipmap-xxhdpi" />
       <recent name="D:\Code Libiary\Github Personal\Higher-Ui\SVGMap\src\main\java\com\jacken_liu\svgmap" />
-      <recent name="D:\Code Libiary\Github Personal\Higher-Ui\SVGMap\src\main\res\raw" />
-      <recent name="D:\Code Libiary\Github Personal\Higher-Ui\MyRecyclerView\src\main\res\layout" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.jacken_liu.vlayout" />
       <recent name="com.jacken_liu.myrecyclerview" />
     </key>
   </component>
-  <component name="RunManager" selected="Android App.Vlayout">
+  <component name="RunManager" selected="Android App.NEMusicList">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -361,6 +354,57 @@
     </configuration>
     <configuration name="MyRecyclerView" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="MyRecyclerView" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NEMusicList" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="NEMusicList" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
       <option name="DEPLOY_AS_INSTANT" value="false" />
@@ -614,7 +658,7 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="materialdesign" type="AndroidRunConfigurationType" factoryName="Android App">
+    <configuration name="materialdesign" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="Material_Design" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
@@ -850,7 +894,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593677850274</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="加入：阿里 vlayout 的使用">
+      <created>1593770068241</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1593770068242</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -888,7 +939,8 @@
     <MESSAGE value="加入：手写 RecyclerView" />
     <MESSAGE value="加入：SVG 点击中国地图 不规则控件" />
     <MESSAGE value="加入：SVG 点击中国地图 不规则控件例子" />
-    <option name="LAST_COMMIT_MESSAGE" value="加入：SVG 点击中国地图 不规则控件例子" />
+    <MESSAGE value="加入：阿里 vlayout 的使用" />
+    <option name="LAST_COMMIT_MESSAGE" value="加入：阿里 vlayout 的使用" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="198" key="#Inspections" timestamp="1592797934885">
@@ -944,40 +996,40 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="815" y="304" key="AndroidProcessChooserDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1592967570380" />
-    <state x="355" y="0" key="CommitChangelistDialog2" timestamp="1593769939560">
+    <state x="355" y="0" key="CommitChangelistDialog2" timestamp="1593770060371">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="355" y="0" key="CommitChangelistDialog2/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1593769939560" />
+    <state x="355" y="0" key="CommitChangelistDialog2/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1593770060371" />
     <state x="533" y="132" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1593570203128" />
     <state width="425" height="311" key="DebuggerActiveHint" timestamp="1593657219569">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state width="425" height="311" key="DebuggerActiveHint/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1593657219569" />
     <state width="462" height="466" key="DebuggerActiveHint/0.0.1920.1080@0.0.1920.1080" timestamp="1592811709781" />
-    <state x="493" y="187" key="FileChooserDialogImpl" timestamp="1593697875895">
+    <state x="493" y="187" key="FileChooserDialogImpl" timestamp="1593850806916">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="493" y="187" key="FileChooserDialogImpl/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1593697875895" />
+    <state x="493" y="187" key="FileChooserDialogImpl/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1593850806916" />
     <state x="739" y="281" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1593570300084" />
-    <state width="1241" height="256" key="GridCell.Tab.0.bottom" timestamp="1593755921356">
+    <state width="1238" height="253" key="GridCell.Tab.0.bottom" timestamp="1593854080010">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1241" height="256" key="GridCell.Tab.0.bottom/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1593755921356" />
+    <state width="1238" height="253" key="GridCell.Tab.0.bottom/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1593854080010" />
     <state width="1877" height="452" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1593569995941" />
-    <state width="1241" height="256" key="GridCell.Tab.0.center" timestamp="1593755921356">
+    <state width="1238" height="253" key="GridCell.Tab.0.center" timestamp="1593854080010">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1241" height="256" key="GridCell.Tab.0.center/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1593755921356" />
+    <state width="1238" height="253" key="GridCell.Tab.0.center/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1593854080010" />
     <state width="1877" height="452" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1593569995940" />
-    <state width="1241" height="256" key="GridCell.Tab.0.left" timestamp="1593755921356">
+    <state width="1238" height="253" key="GridCell.Tab.0.left" timestamp="1593854080009">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1241" height="256" key="GridCell.Tab.0.left/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1593755921356" />
+    <state width="1238" height="253" key="GridCell.Tab.0.left/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1593854080009" />
     <state width="1877" height="452" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1593569995940" />
-    <state width="1241" height="256" key="GridCell.Tab.0.right" timestamp="1593755921356">
+    <state width="1238" height="253" key="GridCell.Tab.0.right" timestamp="1593854080010">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1241" height="256" key="GridCell.Tab.0.right/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1593755921356" />
+    <state width="1238" height="253" key="GridCell.Tab.0.right/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1593854080010" />
     <state width="1877" height="452" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1593569995941" />
     <state width="1238" height="281" key="GridCell.Tab.1.bottom" timestamp="1593663024374">
       <screen x="0" y="0" width="1280" height="720" />
@@ -1016,10 +1068,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="790" y="409" key="VCS.EditChangelistDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1592187264422" />
-    <state x="368" y="182" key="Vcs.Push.Dialog.v2" timestamp="1593677853733">
+    <state x="368" y="182" key="Vcs.Push.Dialog.v2" timestamp="1593770534203">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="368" y="182" key="Vcs.Push.Dialog.v2/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1593677853733" />
+    <state x="368" y="182" key="Vcs.Push.Dialog.v2/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1593770534203" />
     <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1593523900493" />
     <state x="759" y="317" key="chooseDestDirectoryDialog" timestamp="1593520026900">
       <screen x="0" y="0" width="1920" height="1080" />
@@ -1059,10 +1111,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="671" y="182" key="psd.add.module.dependency.panel.dimension/0.0.1920.1080@0.0.1920.1080" timestamp="1592820126534" />
-    <state x="273" y="160" width="672" height="452" key="search.everywhere.popup" timestamp="1593764105687">
+    <state x="273" y="160" width="672" height="452" key="search.everywhere.popup" timestamp="1593853561437">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="273" y="160" width="672" height="452" key="search.everywhere.popup/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1593764105687" />
+    <state x="273" y="160" width="672" height="452" key="search.everywhere.popup/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1593853561437" />
     <state x="410" y="240" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1593522513290" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">

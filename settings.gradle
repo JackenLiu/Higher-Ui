@@ -1,3 +1,4 @@
+include ':NEMusicList'
 include ':JavaReview'
 include ':Vlayout'
 include ':SVGMap'
