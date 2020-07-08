@@ -1,3 +1,4 @@
+include ':NeMusicScreenAdapt'
 include ':NEMusicList'
 include ':JavaReview'
 include ':Vlayout'
