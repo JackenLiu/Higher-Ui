@@ -12,37 +12,74 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="42099905-53ac-4e1a-b6e6-94736274f37c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/NeMusicScreenAdapt/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NeMusicScreenAdapt/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NeMusicScreenAdapt/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NeMusicScreenAdapt/src/androidTest/java/com/jacken_liu/nemusicscreenadapt/ExampleInstrumentedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NeMusicScreenAdapt/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NeMusicScreenAdapt/src/main/java/com/jacken_liu/nemusicscreenadapt/MainActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NeMusicScreenAdapt/src/main/java/com/jacken_liu/nemusicscreenadapt/UiRelativeLayout.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NeMusicScreenAdapt/src/main/java/com/jacken_liu/nemusicscreenadapt/UiUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NeMusicScreenAdapt/src/main/java/com/jacken_liu/nemusicscreenadapt/ViewCalculateUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NeMusicScreenAdapt/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NeMusicScreenAdapt/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NeMusicScreenAdapt/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NeMusicScreenAdapt/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NeMusicScreenAdapt/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NeMusicScreenAdapt/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NeMusicScreenAdapt/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NeMusicScreenAdapt/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NeMusicScreenAdapt/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NeMusicScreenAdapt/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NeMusicScreenAdapt/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NeMusicScreenAdapt/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NeMusicScreenAdapt/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NeMusicScreenAdapt/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NeMusicScreenAdapt/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NeMusicScreenAdapt/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NeMusicScreenAdapt/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NeMusicScreenAdapt/src/main/res/values/styles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NeMusicScreenAdapt/src/test/java/com/jacken_liu/nemusicscreenadapt/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NetEaseDisc/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NetEaseDisc/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NetEaseDisc/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NetEaseDisc/src/androidTest/java/com/jacken_liu/neteasedisc/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NetEaseDisc/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NetEaseDisc/src/main/java/com/jacken_liu/neteasedisc/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NetEaseDisc/src/main/java/com/jacken_liu/neteasedisc/model/MusicData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NetEaseDisc/src/main/java/com/jacken_liu/neteasedisc/service/MusicService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NetEaseDisc/src/main/java/com/jacken_liu/neteasedisc/ui/UIUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NetEaseDisc/src/main/java/com/jacken_liu/neteasedisc/ui/ViewCalculateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NetEaseDisc/src/main/java/com/jacken_liu/neteasedisc/util/FastBlurUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NetEaseDisc/src/main/java/com/jacken_liu/neteasedisc/util/StatusBarUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NetEaseDisc/src/main/java/com/jacken_liu/neteasedisc/util/ToolbarUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NetEaseDisc/src/main/java/com/jacken_liu/neteasedisc/view/DiscView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NetEaseDisc/src/main/java/com/jacken_liu/neteasedisc/view/MyViewFlipper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NetEaseDisc/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NetEaseDisc/src/main/res/drawable/bg_defalut.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NetEaseDisc/src/main/res/drawable/ic_disc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NetEaseDisc/src/main/res/drawable/ic_disc_blackground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NetEaseDisc/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NetEaseDisc/src/main/res/drawable/ic_needle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NetEaseDisc/src/main/res/drawable/ic_poster_default.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NetEaseDisc/src/main/res/drawable/poster1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NetEaseDisc/src/main/res/drawable/poster2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NetEaseDisc/src/main/res/drawable/poster3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NetEaseDisc/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NetEaseDisc/src/main/res/layout/layout_disc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NetEaseDisc/src/main/res/layout/layout_discview.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NetEaseDisc/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NetEaseDisc/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NetEaseDisc/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NetEaseDisc/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NetEaseDisc/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NetEaseDisc/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NetEaseDisc/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NetEaseDisc/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NetEaseDisc/src/main/res/mipmap-xxhdpi/ic_back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NetEaseDisc/src/main/res/mipmap-xxhdpi/ic_comment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NetEaseDisc/src/main/res/mipmap-xxhdpi/ic_detail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NetEaseDisc/src/main/res/mipmap-xxhdpi/ic_download.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NetEaseDisc/src/main/res/mipmap-xxhdpi/ic_fish.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NetEaseDisc/src/main/res/mipmap-xxhdpi/ic_heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NetEaseDisc/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NetEaseDisc/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NetEaseDisc/src/main/res/mipmap-xxhdpi/ic_list.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NetEaseDisc/src/main/res/mipmap-xxhdpi/ic_next.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NetEaseDisc/src/main/res/mipmap-xxhdpi/ic_pause.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NetEaseDisc/src/main/res/mipmap-xxhdpi/ic_play.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NetEaseDisc/src/main/res/mipmap-xxhdpi/ic_previous.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NetEaseDisc/src/main/res/mipmap-xxhdpi/ic_seekbar_thumb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NetEaseDisc/src/main/res/mipmap-xxhdpi/ic_share.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NetEaseDisc/src/main/res/mipmap-xxhdpi/ic_style.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NetEaseDisc/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NetEaseDisc/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NetEaseDisc/src/main/res/raw/music1.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NetEaseDisc/src/main/res/raw/music2.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NetEaseDisc/src/main/res/raw/music3.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NetEaseDisc/src/main/res/raw/poster1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NetEaseDisc/src/main/res/raw/poster2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NetEaseDisc/src/main/res/raw/poster3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NetEaseDisc/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NetEaseDisc/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NetEaseDisc/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NetEaseDisc/src/test/java/com/jacken_liu/neteasedisc/ExampleUnitTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/jarAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/app.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
     </list>
@@ -67,7 +104,7 @@
   <component name="CoverageViewManager">
     <option name="myElementSize" value="241" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="Android_4.4_-_720P" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Android_9.0_-_1080P" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -107,15 +144,15 @@
     <property name="DEBUGGABLE_DEVICE" value="Pixel_3a_API_29 [emulator-5554]" />
     <property name="DEBUGGABLE_PROCESS" value="com.jacken_liu.custom_recyclerview" />
     <property name="DEBUGGER_ID" value="Auto" />
-    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Android_4.4_-_720P" />
-    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-07-08T15:22:46.222Z" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Android_9.0_-_1080P" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-07-09T03:11:52.843Z" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHOW_ALL_PROCESSES" value="false" />
     <property name="SelectDeploymentTargetsDialog.selectedDevices" value="Android_9.0_-_1080P&#10;Android_4.4_-_720P" />
     <property name="android.sdk.path" value="D:/Program/Android/Sdk" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/ProgressBoat/src/main/res/drawable" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Other/ui-master/NeMusicScreenAdapter" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/NetEaseDisc/src/main/res" />
     <property name="project.structure.last.edited" value="Dependencies" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.24746193" />
@@ -123,6 +160,10 @@
     <property name="show.do.not.copy.http.proxy.settings.to.gradle" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.jacken_liu.vlayout" />
+      <recent name="com.jacken_liu.myrecyclerview" />
+    </key>
     <key name="android.template.-897020729">
       <recent name="com.jacken_liu.custom_recyclerview" />
     </key>
@@ -135,6 +176,20 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Code Libiary\Github Personal\Higher-Ui\Immersive\src\main\res\drawable" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.jacken_liu.neteasedisc.service" />
+      <recent name="com.jacken_liu.neteasedisc.model" />
+      <recent name="com.jacken_liu.custom_recyclerview" />
+      <recent name="com.jacken_liu.screen_adapter.notch" />
+      <recent name="com.jacken_liu.screen_adapter.percent" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Code Libiary\Github Personal\Higher-Ui\NetEaseDisc\src\main\res" />
+      <recent name="D:\Code Libiary\Github Personal\Higher-Ui\NetEaseDisc\src\main\res\layout" />
+      <recent name="D:\Code Libiary\Github Personal\Higher-Ui\NetEaseDisc\src\main\res\drawable" />
+      <recent name="D:\Code Libiary\Github Personal\Higher-Ui\NetEaseDisc\src\main\res\mipmap-xxhdpi" />
+      <recent name="D:\Code Libiary\Github Personal\Higher-Ui\NetEaseDisc\src\main\java\com\jacken_liu\neteasedisc" />
+    </key>
     <key name="android.template.1923892521">
       <recent name="com.jacken_liu.screen_adapter.notch" />
       <recent name="com.jacken_liu.event" />
@@ -142,26 +197,8 @@
       <recent name="com.jacken_liu.screen_adapter.percent" />
       <recent name="com.jacken_liu.screen_adapter.pixel_adapter" />
     </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.jacken_liu.custom_recyclerview" />
-      <recent name="com.jacken_liu.screen_adapter.notch" />
-      <recent name="com.jacken_liu.screen_adapter.percent" />
-      <recent name="com.jacken_liu.path" />
-      <recent name="com.jacken_liu.paint" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Code Libiary\Github Personal\Higher-Ui\NEMusicList\src\main\java\com\jacken_liu\nemusiclist" />
-      <recent name="D:\Code Libiary\Github Personal\Higher-Ui\NEMusicList\src\main\res" />
-      <recent name="D:\Code Libiary\Github Personal\Higher-Ui\Vlayout\src\main\res\layout" />
-      <recent name="D:\Code Libiary\Github Personal\Higher-Ui\Vlayout\src\main\res\mipmap-xxhdpi" />
-      <recent name="D:\Code Libiary\Github Personal\Higher-Ui\SVGMap\src\main\java\com\jacken_liu\svgmap" />
-    </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.jacken_liu.vlayout" />
-      <recent name="com.jacken_liu.myrecyclerview" />
-    </key>
   </component>
-  <component name="RunManager" selected="Android App.nemusicscreenadapt">
+  <component name="RunManager" selected="Android App.NetEaseDisc">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -375,6 +412,57 @@
     </configuration>
     <configuration name="NEMusicList" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="NEMusicList" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NetEaseDisc" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="NetEaseDisc" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
       <option name="DEPLOY_AS_INSTANT" value="false" />
@@ -763,6 +851,9 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR" />
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -929,7 +1020,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593936293948</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="加入：网易云音乐屏幕适配 module">
+      <created>1594223323001</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1594223323001</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -969,7 +1067,8 @@
     <MESSAGE value="加入：SVG 点击中国地图 不规则控件例子" />
     <MESSAGE value="加入：阿里 vlayout 的使用" />
     <MESSAGE value="加入：网易云音乐歌单列表 module" />
-    <option name="LAST_COMMIT_MESSAGE" value="加入：网易云音乐歌单列表 module" />
+    <MESSAGE value="加入：网易云音乐屏幕适配 module" />
+    <option name="LAST_COMMIT_MESSAGE" value="加入：网易云音乐屏幕适配 module" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="198" key="#Inspections" timestamp="1592797934885">
@@ -984,10 +1083,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="694" y="342" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1593484701960" />
-    <state x="180" y="89" key="#com.intellij.ide.util.MemberChooser" timestamp="1594200281200">
+    <state x="180" y="89" key="#com.intellij.ide.util.MemberChooser" timestamp="1594283469934">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="180" y="89" key="#com.intellij.ide.util.MemberChooser/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1594200281200" />
+    <state x="180" y="89" key="#com.intellij.ide.util.MemberChooser/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1594283469934" />
     <state x="270" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1593526145425" />
     <state x="427" y="174" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1594198563502">
       <screen x="0" y="0" width="1280" height="720" />
@@ -1027,40 +1126,44 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="815" y="304" key="AndroidProcessChooserDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1592967570380" />
-    <state x="355" y="0" key="CommitChangelistDialog2" timestamp="1593936282781">
+    <state x="355" y="0" key="CommitChangelistDialog2" timestamp="1594223317943">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="355" y="0" key="CommitChangelistDialog2/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1593936282781" />
+    <state x="355" y="0" key="CommitChangelistDialog2/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1594223317943" />
     <state x="533" y="132" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1593570203128" />
     <state width="425" height="311" key="DebuggerActiveHint" timestamp="1593657219569">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state width="425" height="311" key="DebuggerActiveHint/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1593657219569" />
     <state width="462" height="466" key="DebuggerActiveHint/0.0.1920.1080@0.0.1920.1080" timestamp="1592811709781" />
-    <state x="493" y="187" key="FileChooserDialogImpl" timestamp="1594055048639">
+    <state x="93" y="93" width="1095" height="535" key="DiffContextDialog" timestamp="1594264300671">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="493" y="187" key="FileChooserDialogImpl/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1594055048639" />
+    <state x="93" y="93" width="1095" height="535" key="DiffContextDialog/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1594264300671" />
+    <state x="493" y="187" key="FileChooserDialogImpl" timestamp="1594264347438">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="493" y="187" key="FileChooserDialogImpl/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1594264347438" />
     <state x="739" y="281" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1593570300084" />
-    <state width="1241" height="255" key="GridCell.Tab.0.bottom" timestamp="1594222643770">
+    <state width="1241" height="255" key="GridCell.Tab.0.bottom" timestamp="1594548381751">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1241" height="255" key="GridCell.Tab.0.bottom/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1594222643770" />
+    <state width="1241" height="255" key="GridCell.Tab.0.bottom/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1594548381751" />
     <state width="1877" height="452" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1593569995941" />
-    <state width="1241" height="255" key="GridCell.Tab.0.center" timestamp="1594222643770">
+    <state width="1241" height="255" key="GridCell.Tab.0.center" timestamp="1594548381751">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1241" height="255" key="GridCell.Tab.0.center/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1594222643770" />
+    <state width="1241" height="255" key="GridCell.Tab.0.center/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1594548381751" />
     <state width="1877" height="452" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1593569995940" />
-    <state width="1241" height="255" key="GridCell.Tab.0.left" timestamp="1594222643770">
+    <state width="1241" height="255" key="GridCell.Tab.0.left" timestamp="1594548381751">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1241" height="255" key="GridCell.Tab.0.left/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1594222643770" />
+    <state width="1241" height="255" key="GridCell.Tab.0.left/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1594548381751" />
     <state width="1877" height="452" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1593569995940" />
-    <state width="1241" height="255" key="GridCell.Tab.0.right" timestamp="1594222643770">
+    <state width="1241" height="255" key="GridCell.Tab.0.right" timestamp="1594548381751">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1241" height="255" key="GridCell.Tab.0.right/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1594222643770" />
+    <state width="1241" height="255" key="GridCell.Tab.0.right/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1594548381751" />
     <state width="1877" height="452" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1593569995941" />
     <state width="1241" height="283" key="GridCell.Tab.1.bottom" timestamp="1594221770349">
       <screen x="0" y="0" width="1280" height="720" />
@@ -1118,10 +1221,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="92" y="92" width="1736" height="896" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1592902468044" />
-    <state x="427" y="243" key="com.intellij.ide.util.TipDialog" timestamp="1594199092207">
+    <state x="427" y="243" key="com.intellij.ide.util.TipDialog" timestamp="1594437757565">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="427" y="243" key="com.intellij.ide.util.TipDialog/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1594199092207" />
+    <state x="427" y="243" key="com.intellij.ide.util.TipDialog/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1594437757565" />
     <state x="640" y="364" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1592881959609" />
     <state x="427" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593748332942">
       <screen x="0" y="0" width="1280" height="720" />
