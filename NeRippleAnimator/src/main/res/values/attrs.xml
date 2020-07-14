@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RippleAnimatorView">
+        <attr name="ripple_anim_color" format="color" />
+        <attr name="ripple_anim_type" format="enum">
+            <enum name="fillRipple" value="0" />
+            <enum name="strokeRipple" value="1" />
+        </attr>
+        <attr name="radius" format="integer" />
+        <attr name="strokeWidth" format="integer" />
+    </declare-styleable>
+
+    <!--    在属性名添加 layout 开头使用时自定义属性则会没有红线 -->
+    <declare-styleable name="RippleAnimatorView_Layout">
+        <attr name="layout_ripple_anim_color" format="color" />
+    </declare-styleable>
+</resources>

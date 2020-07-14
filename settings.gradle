@@ -1,3 +1,4 @@
+include ':NeRippleAnimator'
 include ':NetEaseDisc'
 include ':NeMusicScreenAdapt'
 include ':NEMusicList'
