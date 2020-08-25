@@ -6,51 +6,64 @@
     </shared>
   </component>
   <component name="AndroidLogFilters">
-    <option name="TOOL_WINDOW_LOG_LEVEL" value="error" />
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
     <option name="TOOL_WINDOW_REGEXP_FILTER" value="false" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="42099905-53ac-4e1a-b6e6-94736274f37c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/NeRippleAnimator/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NeRippleAnimator/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NeRippleAnimator/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NeRippleAnimator/src/androidTest/java/com/jacken_liu/nerippleanimator/ExampleInstrumentedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NeRippleAnimator/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NeRippleAnimator/src/main/java/com/jacken_liu/nerippleanimator/LoadingView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NeRippleAnimator/src/main/java/com/jacken_liu/nerippleanimator/MainActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NeRippleAnimator/src/main/java/com/jacken_liu/nerippleanimator/RippleAnimatorView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NeRippleAnimator/src/main/java/com/jacken_liu/nerippleanimator/RippleCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NeRippleAnimator/src/main/java/com/jacken_liu/nerippleanimator/ui/UIRelativeLayout.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NeRippleAnimator/src/main/java/com/jacken_liu/nerippleanimator/ui/UIUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NeRippleAnimator/src/main/java/com/jacken_liu/nerippleanimator/ui/ViewCalculateUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NeRippleAnimator/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NeRippleAnimator/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NeRippleAnimator/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NeRippleAnimator/src/main/res/layout/activity_main1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NeRippleAnimator/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NeRippleAnimator/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NeRippleAnimator/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NeRippleAnimator/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NeRippleAnimator/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NeRippleAnimator/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NeRippleAnimator/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NeRippleAnimator/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NeRippleAnimator/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NeRippleAnimator/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NeRippleAnimator/src/main/res/mipmap-xxhdpi/music.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NeRippleAnimator/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NeRippleAnimator/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NeRippleAnimator/src/main/res/values/attrs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NeRippleAnimator/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NeRippleAnimator/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NeRippleAnimator/src/main/res/values/styles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NeRippleAnimator/src/test/java/com/jacken_liu/nerippleanimator/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Material_Design/src/main/java/com/jacken_liu/materialdesign/view/DemoActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/jacken_liu/xfermodes/XfermodeActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/jacken_liu/xfermodes/XfermodeEraserView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/jacken_liu/xfermodes/XfermodeView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/jacken_liu/xfermodes/XfermodesActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/jacken_liu/xfermodes/XfermodesView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/eraser.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/result.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/beauty.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.1.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_activity_activity_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_activity_activity_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_resources_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_resources_1_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_1_1_3_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_1_1_3_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_core_core_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_core_core_1_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_customview_customview_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_customview_customview_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_drawerlayout_drawerlayout_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_drawerlayout_drawerlayout_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_fragment_fragment_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_fragment_fragment_1_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_savedstate_savedstate_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_savedstate_savedstate_1_0_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_core_1_2_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_core_1_2_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_espresso_espresso_core_3_2_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_espresso_espresso_core_3_2_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_espresso_espresso_idling_resource_3_2_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_espresso_espresso_idling_resource_3_2_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_ext_junit_1_1_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_ext_junit_1_1_1_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_monitor_1_2_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_monitor_1_2_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_runner_1_2_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_runner_1_2_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_1_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_animated_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_animated_1_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_1_0_aar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/app/app.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaReview/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaReview/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaReview/src/main/java/com/jacken_liu/javareview/MainClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaReview/src/main/java/com/jacken_liu/javareview/extend/Child.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaReview/src/main/java/com/jacken_liu/javareview/extend/Father.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/jacken_liu/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/jacken_liu/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/jacken_liu/canvas/CanvasPrimaryActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/jacken_liu/canvas/CanvasPrimaryActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
     </list>
     <list id="20a770b1-e073-49f4-96c4-dfa2b2ec3eea" name="ignore" comment="">
@@ -74,7 +87,7 @@
   <component name="CoverageViewManager">
     <option name="myElementSize" value="241" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="Android_9.0_-_1080P" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="10.0_1080P" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -99,8 +112,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="valueResourceFile" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -126,8 +139,8 @@
     <property name="SHOW_ALL_PROCESSES" value="false" />
     <property name="SelectDeploymentTargetsDialog.selectedDevices" value="Android_9.0_-_1080P&#10;Android_4.4_-_720P" />
     <property name="android.sdk.path" value="D:/Program/Android/Sdk" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/ProgressBoat/src/main/res/drawable" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/NeRippleAnimator/src/main/java/com/jacken_liu/nerippleanimator" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi" />
     <property name="project.structure.last.edited" value="Dependencies" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.24746193" />
@@ -135,12 +148,15 @@
     <property name="show.do.not.copy.http.proxy.settings.to.gradle" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.jacken_liu.vlayout" />
-      <recent name="com.jacken_liu.myrecyclerview" />
-    </key>
     <key name="android.template.-897020729">
       <recent name="com.jacken_liu.custom_recyclerview" />
+    </key>
+    <key name="android.template.1923892521">
+      <recent name="com.jacken_liu.screen_adapter.notch" />
+      <recent name="com.jacken_liu.event" />
+      <recent name="com.jacken_liu.screen_adapter.density" />
+      <recent name="com.jacken_liu.screen_adapter.percent" />
+      <recent name="com.jacken_liu.screen_adapter.pixel_adapter" />
     </key>
     <key name="android.template.1874261029">
       <recent name="com.jacken_liu.path" />
@@ -159,21 +175,18 @@
       <recent name="com.jacken_liu.screen_adapter.percent" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Code Libiary\Github Personal\Higher-Ui\app\src\main\res\mipmap-xxhdpi" />
+      <recent name="D:\Code Libiary\Github Personal\Higher-Ui\app\src\main\res\drawable-xxhdpi" />
+      <recent name="D:\Code Libiary\Github Personal\Higher-Ui\app\src\main\java\com\jacken_liu\xfermodes" />
       <recent name="D:\Code Libiary\Github Personal\Higher-Ui\NeRippleAnimator\src\main\java\com\jacken_liu\nerippleanimator" />
       <recent name="D:\Code Libiary\Github Personal\Higher-Ui\NeRippleAnimator\src\main\res\mipmap-xxhdpi" />
-      <recent name="D:\Code Libiary\Github Personal\Higher-Ui\NeRippleAnimator\src\main\res\layout" />
-      <recent name="D:\Code Libiary\Github Personal\Higher-Ui\NetEaseDisc\src\main\res" />
-      <recent name="D:\Code Libiary\Github Personal\Higher-Ui\NetEaseDisc\src\main\res\layout" />
     </key>
-    <key name="android.template.1923892521">
-      <recent name="com.jacken_liu.screen_adapter.notch" />
-      <recent name="com.jacken_liu.event" />
-      <recent name="com.jacken_liu.screen_adapter.density" />
-      <recent name="com.jacken_liu.screen_adapter.percent" />
-      <recent name="com.jacken_liu.screen_adapter.pixel_adapter" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.jacken_liu.vlayout" />
+      <recent name="com.jacken_liu.myrecyclerview" />
     </key>
   </component>
-  <component name="RunManager" selected="Android App.NeRippleAnimator">
+  <component name="RunManager" selected="Android App.app">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -1060,7 +1073,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594548424645</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="加入：PathMeasure高阶动画特效（水波纹效果）module">
+      <created>1594695727132</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1594695727132</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -1077,7 +1097,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="first add" />
     <MESSAGE value="增加：path 基本功能" />
     <MESSAGE value="修改：path 的 reset 使用" />
     <MESSAGE value="加入：path 贝塞尔曲线" />
@@ -1102,24 +1121,27 @@
     <MESSAGE value="加入：网易云音乐歌单列表 module" />
     <MESSAGE value="加入：网易云音乐屏幕适配 module" />
     <MESSAGE value="加入：网易云音乐碟片切换 module" />
-    <option name="LAST_COMMIT_MESSAGE" value="加入：网易云音乐碟片切换 module" />
+    <MESSAGE value="加入：PathMeasure高阶动画特效（水波纹效果）module" />
+    <option name="LAST_COMMIT_MESSAGE" value="加入：PathMeasure高阶动画特效（水波纹效果）module" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="198" key="#Inspections" timestamp="1592797934885">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="552" y="198" key="#Inspections/0.0.1920.1080@0.0.1920.1080" timestamp="1592797934885" />
-    <state x="477" y="272" key="#PSD" timestamp="1592820127853">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="316" y="181" key="#PSD" timestamp="1598253234056">
+      <screen x="65" y="0" width="1215" height="720" />
     </state>
     <state x="477" y="272" key="#PSD/0.0.1920.1080@0.0.1920.1080" timestamp="1592820127853" />
+    <state x="316" y="181" key="#PSD/65.0.1215.720/62.-1080.1858.1080@65.0.1215.720" timestamp="1598253234056" />
     <state x="694" y="342" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593484701960">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="694" y="342" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1593484701960" />
-    <state x="180" y="89" key="#com.intellij.ide.util.MemberChooser" timestamp="1594690291924">
-      <screen x="0" y="0" width="1280" height="720" />
+    <state x="180" y="85" key="#com.intellij.ide.util.MemberChooser" timestamp="1595134956122">
+      <screen x="0" y="0" width="1280" height="689" />
     </state>
+    <state x="180" y="85" key="#com.intellij.ide.util.MemberChooser/0.0.1280.689/0.-1080.1920.1050@0.0.1280.689" timestamp="1595134956122" />
     <state x="180" y="89" key="#com.intellij.ide.util.MemberChooser/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1594690291924" />
     <state x="270" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1593526145425" />
     <state x="427" y="174" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1594198563502">
@@ -1143,11 +1165,12 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="690" y="286" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1592902257275" />
-    <state x="724" y="94" width="488" height="566" key="#xdebugger.evaluate" timestamp="1594221643001">
-      <screen x="0" y="0" width="1280" height="720" />
+    <state x="752" y="94" width="488" height="566" key="#xdebugger.evaluate" timestamp="1598254927340">
+      <screen x="65" y="0" width="1215" height="720" />
     </state>
     <state x="724" y="94" width="488" height="566" key="#xdebugger.evaluate/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1594221643001" />
     <state x="715" y="242" key="#xdebugger.evaluate/0.0.1920.1080@0.0.1920.1080" timestamp="1593520652126" />
+    <state x="752" y="94" width="488" height="566" key="#xdebugger.evaluate/65.0.1215.720/62.-1080.1858.1080@65.0.1215.720" timestamp="1598254927340" />
     <state x="221" y="116" key="AndroidCreateResourceDirectoryDialog" timestamp="1593660231027">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
@@ -1160,70 +1183,88 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="815" y="304" key="AndroidProcessChooserDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1592967570380" />
-    <state x="355" y="0" key="CommitChangelistDialog2" timestamp="1594548415979">
-      <screen x="0" y="0" width="1280" height="720" />
+    <state x="402" y="0" key="CommitChangelistDialog2" timestamp="1598346335090">
+      <screen x="65" y="0" width="1215" height="720" />
     </state>
-    <state x="355" y="0" key="CommitChangelistDialog2/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1594548415979" />
+    <state x="355" y="0" key="CommitChangelistDialog2/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1594695721880" />
     <state x="533" y="132" key="CommitChangelistDialog2/0.0.1920.1080@0.0.1920.1080" timestamp="1593570203128" />
+    <state x="402" y="0" key="CommitChangelistDialog2/65.0.1215.720/62.-1080.1858.1080@65.0.1215.720" timestamp="1598346335090" />
     <state width="425" height="311" key="DebuggerActiveHint" timestamp="1593657219569">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state width="425" height="311" key="DebuggerActiveHint/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1593657219569" />
     <state width="462" height="466" key="DebuggerActiveHint/0.0.1920.1080@0.0.1920.1080" timestamp="1592811709781" />
-    <state x="93" y="93" width="1095" height="535" key="DiffContextDialog" timestamp="1594264300671">
-      <screen x="0" y="0" width="1280" height="720" />
+    <state x="93" y="89" width="1095" height="512" key="DiffContextDialog" timestamp="1596103038727">
+      <screen x="0" y="0" width="1280" height="689" />
     </state>
+    <state x="93" y="89" width="1095" height="512" key="DiffContextDialog/0.0.1280.689/0.-1080.1920.1050@0.0.1280.689" timestamp="1596103038727" />
     <state x="93" y="93" width="1095" height="535" key="DiffContextDialog/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1594264300671" />
     <state x="493" y="187" key="FileChooserDialogImpl" timestamp="1594609375873">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="493" y="187" key="FileChooserDialogImpl/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1594609375873" />
     <state x="739" y="281" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1593570300084" />
-    <state width="1241" height="255" key="GridCell.Tab.0.bottom" timestamp="1594694252397">
-      <screen x="0" y="0" width="1280" height="720" />
+    <state width="1172" height="251" key="GridCell.Tab.0.bottom" timestamp="1598323896341">
+      <screen x="65" y="0" width="1215" height="720" />
     </state>
+    <state width="1241" height="238" key="GridCell.Tab.0.bottom/0.0.1280.689/0.-1080.1920.1050@0.0.1280.689" timestamp="1595231224769" />
     <state width="1241" height="255" key="GridCell.Tab.0.bottom/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1594694252397" />
     <state width="1877" height="452" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1593569995941" />
-    <state width="1241" height="255" key="GridCell.Tab.0.center" timestamp="1594694252397">
-      <screen x="0" y="0" width="1280" height="720" />
+    <state width="1172" height="251" key="GridCell.Tab.0.bottom/65.0.1215.720/62.-1080.1858.1080@65.0.1215.720" timestamp="1598323896341" />
+    <state width="1172" height="251" key="GridCell.Tab.0.center" timestamp="1598323896341">
+      <screen x="65" y="0" width="1215" height="720" />
     </state>
+    <state width="1241" height="238" key="GridCell.Tab.0.center/0.0.1280.689/0.-1080.1920.1050@0.0.1280.689" timestamp="1595231224769" />
     <state width="1241" height="255" key="GridCell.Tab.0.center/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1594694252397" />
     <state width="1877" height="452" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1593569995940" />
-    <state width="1241" height="255" key="GridCell.Tab.0.left" timestamp="1594694252397">
-      <screen x="0" y="0" width="1280" height="720" />
+    <state width="1172" height="251" key="GridCell.Tab.0.center/65.0.1215.720/62.-1080.1858.1080@65.0.1215.720" timestamp="1598323896341" />
+    <state width="1172" height="251" key="GridCell.Tab.0.left" timestamp="1598323896340">
+      <screen x="65" y="0" width="1215" height="720" />
     </state>
+    <state width="1241" height="238" key="GridCell.Tab.0.left/0.0.1280.689/0.-1080.1920.1050@0.0.1280.689" timestamp="1595231224769" />
     <state width="1241" height="255" key="GridCell.Tab.0.left/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1594694252397" />
     <state width="1877" height="452" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1593569995940" />
-    <state width="1241" height="255" key="GridCell.Tab.0.right" timestamp="1594694252397">
-      <screen x="0" y="0" width="1280" height="720" />
+    <state width="1172" height="251" key="GridCell.Tab.0.left/65.0.1215.720/62.-1080.1858.1080@65.0.1215.720" timestamp="1598323896340" />
+    <state width="1172" height="251" key="GridCell.Tab.0.right" timestamp="1598323896341">
+      <screen x="65" y="0" width="1215" height="720" />
     </state>
+    <state width="1241" height="238" key="GridCell.Tab.0.right/0.0.1280.689/0.-1080.1920.1050@0.0.1280.689" timestamp="1595231224769" />
     <state width="1241" height="255" key="GridCell.Tab.0.right/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1594694252397" />
     <state width="1877" height="452" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1593569995941" />
-    <state width="1241" height="283" key="GridCell.Tab.1.bottom" timestamp="1594221770349">
-      <screen x="0" y="0" width="1280" height="720" />
+    <state width="1172" height="251" key="GridCell.Tab.0.right/65.0.1215.720/62.-1080.1858.1080@65.0.1215.720" timestamp="1598323896341" />
+    <state width="1175" height="283" key="GridCell.Tab.1.bottom" timestamp="1598254929804">
+      <screen x="65" y="0" width="1215" height="720" />
     </state>
     <state width="1241" height="283" key="GridCell.Tab.1.bottom/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1594221770349" />
     <state width="1877" height="354" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1593520683157" />
-    <state width="1241" height="283" key="GridCell.Tab.1.center" timestamp="1594221770349">
-      <screen x="0" y="0" width="1280" height="720" />
+    <state width="1175" height="283" key="GridCell.Tab.1.bottom/65.0.1215.720/62.-1080.1858.1080@65.0.1215.720" timestamp="1598254929804" />
+    <state width="1175" height="283" key="GridCell.Tab.1.center" timestamp="1598254929804">
+      <screen x="65" y="0" width="1215" height="720" />
     </state>
     <state width="1241" height="283" key="GridCell.Tab.1.center/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1594221770349" />
     <state width="1877" height="354" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1593520683157" />
-    <state width="1241" height="283" key="GridCell.Tab.1.left" timestamp="1594221770349">
-      <screen x="0" y="0" width="1280" height="720" />
+    <state width="1175" height="283" key="GridCell.Tab.1.center/65.0.1215.720/62.-1080.1858.1080@65.0.1215.720" timestamp="1598254929804" />
+    <state width="1175" height="283" key="GridCell.Tab.1.left" timestamp="1598254929804">
+      <screen x="65" y="0" width="1215" height="720" />
     </state>
     <state width="1241" height="283" key="GridCell.Tab.1.left/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1594221770349" />
     <state width="1877" height="354" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1593520683157" />
-    <state width="1241" height="283" key="GridCell.Tab.1.right" timestamp="1594221770349">
-      <screen x="0" y="0" width="1280" height="720" />
+    <state width="1175" height="283" key="GridCell.Tab.1.left/65.0.1215.720/62.-1080.1858.1080@65.0.1215.720" timestamp="1598254929804" />
+    <state width="1175" height="283" key="GridCell.Tab.1.right" timestamp="1598254929804">
+      <screen x="65" y="0" width="1215" height="720" />
     </state>
     <state width="1241" height="283" key="GridCell.Tab.1.right/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1594221770349" />
     <state width="1877" height="354" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1593520683157" />
+    <state width="1175" height="283" key="GridCell.Tab.1.right/65.0.1215.720/62.-1080.1858.1080@65.0.1215.720" timestamp="1598254929804" />
     <state x="360" y="189" key="IDE.errors.dialog" timestamp="1594003369840">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="360" y="189" key="IDE.errors.dialog/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1594003369840" />
     <state x="540" y="283" key="IDE.errors.dialog/0.0.1920.1080@0.0.1920.1080" timestamp="1593003042487" />
+    <state x="339" y="55" key="RollbackChangesDialog" timestamp="1596103039456">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="339" y="55" key="RollbackChangesDialog/0.0.1280.689/0.-1080.1920.1050@0.0.1280.689" timestamp="1596103039456" />
     <state x="128" y="4" key="SettingsEditor" timestamp="1594003310552">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
@@ -1237,15 +1278,20 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="790" y="409" key="VCS.EditChangelistDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1592187264422" />
-    <state x="368" y="182" key="Vcs.Push.Dialog.v2" timestamp="1594548432206">
+    <state x="368" y="182" key="Vcs.Push.Dialog.v2" timestamp="1594696626223">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="368" y="182" key="Vcs.Push.Dialog.v2/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1594548432206" />
+    <state x="368" y="182" key="Vcs.Push.Dialog.v2/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1594696626223" />
     <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1593523900493" />
-    <state x="759" y="317" key="chooseDestDirectoryDialog" timestamp="1593520026900">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="614" height="367" key="XDebugger.FullValuePopup" timestamp="1598254927197">
+      <screen x="65" y="0" width="1215" height="720" />
+    </state>
+    <state width="614" height="367" key="XDebugger.FullValuePopup/65.0.1215.720/62.-1080.1858.1080@65.0.1215.720" timestamp="1598254927197" />
+    <state x="545" y="211" key="chooseDestDirectoryDialog" timestamp="1598253703746">
+      <screen x="65" y="0" width="1215" height="720" />
     </state>
     <state x="759" y="317" key="chooseDestDirectoryDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1593520026900" />
+    <state x="545" y="211" key="chooseDestDirectoryDialog/65.0.1215.720/62.-1080.1858.1080@65.0.1215.720" timestamp="1598253703746" />
     <state x="61" y="61" width="1158" height="598" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1594220622867">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
@@ -1255,11 +1301,13 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="92" y="92" width="1736" height="896" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1592902468044" />
-    <state x="427" y="243" key="com.intellij.ide.util.TipDialog" timestamp="1594437757565">
-      <screen x="0" y="0" width="1280" height="720" />
+    <state x="470" y="243" key="com.intellij.ide.util.TipDialog" timestamp="1598145381334">
+      <screen x="65" y="0" width="1215" height="720" />
     </state>
+    <state x="427" y="233" key="com.intellij.ide.util.TipDialog/0.0.1280.689/0.-1080.1920.1050@0.0.1280.689" timestamp="1596102940606" />
     <state x="427" y="243" key="com.intellij.ide.util.TipDialog/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1594437757565" />
     <state x="640" y="364" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1592881959609" />
+    <state x="470" y="243" key="com.intellij.ide.util.TipDialog/65.0.1215.720/62.-1080.1858.1080@65.0.1215.720" timestamp="1598145381334" />
     <state x="427" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593748332942">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
@@ -1268,11 +1316,13 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="690" y="307" key="extract.method.dialog/0.0.1920.1080@0.0.1920.1080" timestamp="1592294455475" />
-    <state x="425" y="0" width="638" height="720" key="find.popup" timestamp="1594691230489">
-      <screen x="0" y="0" width="1280" height="720" />
+    <state x="468" y="0" width="638" height="720" key="find.popup" timestamp="1598325783065">
+      <screen x="65" y="0" width="1215" height="720" />
     </state>
+    <state x="425" y="0" width="638" height="689" key="find.popup/0.0.1280.689/0.-1080.1920.1050@0.0.1280.689" timestamp="1595129577376" />
     <state x="425" y="0" width="638" height="720" key="find.popup/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1594691230489" />
     <state x="637" y="276" width="647" height="532" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1593507339660" />
+    <state x="468" y="0" width="638" height="720" key="find.popup/65.0.1215.720/62.-1080.1858.1080@65.0.1215.720" timestamp="1598325783065" />
     <state x="549" y="280" key="psd.add.library.dependency.panel.dimension" timestamp="1592538516515">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -1281,11 +1331,12 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="671" y="182" key="psd.add.module.dependency.panel.dimension/0.0.1920.1080@0.0.1920.1080" timestamp="1592820126534" />
-    <state x="273" y="160" width="672" height="452" key="search.everywhere.popup" timestamp="1594691216250">
-      <screen x="0" y="0" width="1280" height="720" />
+    <state x="325" y="160" width="672" height="452" key="search.everywhere.popup" timestamp="1598252928574">
+      <screen x="65" y="0" width="1215" height="720" />
     </state>
     <state x="273" y="160" width="672" height="452" key="search.everywhere.popup/0.0.1280.720/0.-1080.1920.1080@0.0.1280.720" timestamp="1594691216250" />
     <state x="410" y="240" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1593522513290" />
+    <state x="325" y="160" width="672" height="452" key="search.everywhere.popup/65.0.1215.720/62.-1080.1858.1080@65.0.1215.720" timestamp="1598252928574" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Higher_Ui$Activity.ic" NAME="Activity Coverage Results" MODIFIED="1592493185491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

@@ -46,11 +46,11 @@ public class CanvasPrimaryActivity extends AppCompatActivity {
 
 //            testScale(canvas, rect);
 //            testRotate(canvas, rect);
-            textSkew(canvas, rect);
+//            textSkew(canvas, rect);
 //            testClip(canvas);
 //            testMatrix(canvas);
 //            testSave(canvas);
-//            testSaveLayer(canvas);
+            testSaveLayer(canvas);
         }
 
         /**
@@ -97,6 +97,8 @@ public class CanvasPrimaryActivity extends AppCompatActivity {
             canvas.drawRect(350, 350, 650, 650, mPaint);
 //            canvas.restore();
 //            canvas.restore();
+
+            // Paint 恢复到画红色框的状态
             canvas.restoreToCount(saveCount);
             mPaint.setColor(Color.BLUE);
             mPaint.setAlpha(100);

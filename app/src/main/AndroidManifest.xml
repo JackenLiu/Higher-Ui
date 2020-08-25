@@ -35,6 +35,8 @@
         <activity android:name=".paint.PaintInitActivity" />
         <activity android:name=".path.PathEffectActivity" />
         <activity android:name=".path.PathPrimaryActivity" />
+        <activity android:name=".xfermodes.XfermodeActivity" />
+        <activity android:name=".xfermodes.XfermodesActivity" />
     </application>
 
 </manifest>
