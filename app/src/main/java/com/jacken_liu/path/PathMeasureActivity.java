@@ -63,7 +63,7 @@ public class PathMeasureActivity extends AppCompatActivity {
 
             // 获取片段
 //            testSegment(canvas);
-
+//
             // 下一个轮廓
 //            testNextContour(canvas);
 
@@ -148,7 +148,9 @@ public class PathMeasureActivity extends AppCompatActivity {
             /*
             · 使用 nextContour 则把片段转移到下个个轮廓（图形）
              */
+//            Log.d("TAG", "pathMeasure nextContour false: " + pathMeasure.getLength());
             pathMeasure.nextContour();
+            Log.d("TAG", "pathMeasure nextContour true: " + pathMeasure.getLength());
             Path dst = new Path();
             pathMeasure.getSegment(0, 1000, dst, true);
             mPaint.setColor(Color.GREEN);
@@ -200,7 +202,7 @@ public class PathMeasureActivity extends AppCompatActivity {
             /*
             · distance 表示起点到 pos[] 点的距离
             · pos[] 表示点的坐标值
-            · tan[] 表示当前点在路径上的切线与 X 轴正方形的夹角A
+            · tan[] 表示当前点在路径上的切线与 X 轴正方向的夹角A
             · tan[0] ==> x ==> cosA
             · tan[1] ==> y ==> sinA
              */
