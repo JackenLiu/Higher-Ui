@@ -12,6 +12,9 @@ import android.view.View;
 
 import androidx.annotation.Nullable;
 
+/**
+ * 圆形进度加载
+ */
 public class LoadingView extends View {
     private Paint paint;
     private Path path;

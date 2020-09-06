@@ -12,6 +12,7 @@ import com.jacken_liu.paint.PaintColorFilterActivity;
 import com.jacken_liu.paint.PaintGradientActivity;
 import com.jacken_liu.paint.PaintInitActivity;
 import com.jacken_liu.path.PathBezierCurveActivity;
+import com.jacken_liu.path.PathEffectActivity;
 import com.jacken_liu.path.PathMeasureActivity;
 import com.jacken_liu.path.PathPrimaryActivity;
 import com.jacken_liu.screen_adapter.density.DensityAdapterActivity;

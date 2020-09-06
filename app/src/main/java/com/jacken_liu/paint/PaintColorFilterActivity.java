@@ -50,6 +50,9 @@ public class PaintColorFilterActivity extends AppCompatActivity {
 
             Bitmap bitmap = BitmapFactory.decodeResource(getResources(), R.drawable.taylor);
 
+            // 原图
+            canvas.drawBitmap(bitmap, 0, 1500, mPaint);
+
             // 颜色滤镜
             testLightingColorFilter(canvas, bitmap);
 
@@ -61,6 +64,7 @@ public class PaintColorFilterActivity extends AppCompatActivity {
 
         /**
          * 颜色矩阵调整
+         *
          * @param canvas
          * @param bitmap
          */
@@ -89,10 +93,24 @@ public class PaintColorFilterActivity extends AppCompatActivity {
             mPaint.setColorFilter(colorMatrixColorFilter1);
             canvas.drawBitmap(bitmap, 300, 600, mPaint);
 
+
+            // 颜色矩阵：灰色
+            float[] colorMatrix2 = {
+                    0.3f, 0.3f, 0.3f, 0, 0, // red
+                    0.3f, 0.3f, 0.3f, 0, 0, // green
+                    0.3f, 0.3f, 0.3f, 0, 0, // blue
+                    0, 0, 0, 1, 0     // alpha
+            };
+
+            ColorMatrixColorFilter colorMatrixColorFilter2 = new ColorMatrixColorFilter(colorMatrix2);
+            mPaint.setColorFilter(colorMatrixColorFilter2);
+            canvas.drawBitmap(bitmap, 600, 600, mPaint);
+
         }
 
         /**
          * 单颜色滤镜跳转
+         *
          * @param canvas
          * @param bitmap
          */
@@ -104,6 +122,7 @@ public class PaintColorFilterActivity extends AppCompatActivity {
 
         /**
          * 颜色增量减量滤镜
+         *
          * @param canvas
          * @param bitmap
          */

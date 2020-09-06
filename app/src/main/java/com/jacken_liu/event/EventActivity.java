@@ -8,11 +8,11 @@ import android.graphics.Color;
 import android.os.Bundle;
 import android.util.AttributeSet;
 import android.util.Log;
+import android.view.MotionEvent;
 import android.view.View;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
-import com.jacken_liu.neteaseeventlib.MotionEvent;
 import com.jacken_liu.neteaseeventlib.ViewGroup;
 import com.jacken_liu.neteaseeventlib.listener.OnClickListener;
 import com.jacken_liu.neteaseeventlib.listener.OnTouchListener;
@@ -21,7 +21,7 @@ public class EventActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
+        super.onCreate(savedInstanceState)  ;
         final MyTextView myTextView = new MyTextView(this);
 
         RelativeLayout.LayoutParams layoutParams = new RelativeLayout.LayoutParams(
@@ -74,6 +74,16 @@ public class EventActivity extends AppCompatActivity {
             Log.d("onDraw", "===============");
 
         }
+    }
+
+    @Override
+    public boolean dispatchTouchEvent(MotionEvent ev) {
+        return super.dispatchTouchEvent(ev);
+    }
+
+    @Override
+    public boolean onTouchEvent(MotionEvent event) {
+        return super.onTouchEvent(event);
     }
 
 }

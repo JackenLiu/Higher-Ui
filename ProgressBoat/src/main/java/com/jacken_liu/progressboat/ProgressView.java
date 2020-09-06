@@ -164,7 +164,7 @@ public class ProgressView extends View {
         canvas.translate(-pos[0], 0);
         canvas.drawPath(mPath, mPaint);
         canvas.save();
-        // 第二条水波 （快）
+        // 第二条水波 （快，平移两次）
         canvas.translate(-pos[0], 0);
         canvas.drawPath(mPath, mPaint);
 
