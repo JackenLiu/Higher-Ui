@@ -46,15 +46,16 @@ public class CanvasPrimaryActivity extends AppCompatActivity {
 
 //            testScale(canvas, rect);
 //            testRotate(canvas, rect);
-//            textSkew(canvas, rect);
+            textSkew(canvas, rect);
 //            testClip(canvas);
 //            testMatrix(canvas);
 //            testSave(canvas);
-            testSaveLayer(canvas);
+//            testSaveLayer(canvas);
         }
 
         /**
          * 测试 Canvas 图层保存
+         *
          * @param canvas
          */
         @RequiresApi(api = Build.VERSION_CODES.LOLLIPOP)
@@ -75,6 +76,7 @@ public class CanvasPrimaryActivity extends AppCompatActivity {
 
         /**
          * 测试 Canvas 状态保存
+         *
          * @param canvas
          */
         private void testSave(Canvas canvas) {
@@ -107,6 +109,7 @@ public class CanvasPrimaryActivity extends AppCompatActivity {
 
         /**
          * 测试矩阵
+         *
          * @param canvas
          */
         private void testMatrix(Canvas canvas) {
@@ -129,6 +132,7 @@ public class CanvasPrimaryActivity extends AppCompatActivity {
 
         /**
          * 测试裁剪
+         *
          * @param canvas
          */
         @RequiresApi(api = Build.VERSION_CODES.O)
@@ -147,6 +151,7 @@ public class CanvasPrimaryActivity extends AppCompatActivity {
 
         /**
          * 测试倾斜
+         *
          * @param canvas
          * @param rect
          */
@@ -163,6 +168,7 @@ public class CanvasPrimaryActivity extends AppCompatActivity {
 
         /**
          * 测试旋转
+         *
          * @param canvas
          * @param rect
          */
@@ -181,6 +187,7 @@ public class CanvasPrimaryActivity extends AppCompatActivity {
 
         /**
          * 测试缩放
+         *
          * @param canvas
          * @param rect
          */
@@ -188,12 +195,18 @@ public class CanvasPrimaryActivity extends AppCompatActivity {
             mPaint.setColor(Color.RED);
             mPaint.setAlpha(100);
             canvas.drawRect(rect, mPaint);
+            canvas.save();
 
             mPaint.setColor(Color.GREEN);
             mPaint.setAlpha(100);
 
             // 缩放除了 x 、y 坐标， x 、y 轴上的线宽同样缩放
             canvas.scale(0.5f, 0.5f);
+            canvas.drawRect(rect, mPaint);
+            canvas.restore();
+
+            mPaint.setColor(Color.BLUE);
+            canvas.scale(-0.5f, 0.5f, 300, 1000);
             canvas.drawRect(rect, mPaint);
         }
     }

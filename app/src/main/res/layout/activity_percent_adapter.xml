@@ -9,11 +9,18 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_centerHorizontal="true"
-        android:text="Hello World!"
         android:background="@color/colorAccent"
+        android:text="Hello World!"
         app:heightPercent="50%"
+        app:marginLeftPercent="20%"
+        app:marginRightPercent="30%"
+        app:marginTopPercent="30%"
         app:widthPercent="50%"
         tools:ignore="MissingPrefix" />
+
+    <RelativeLayout
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:background="@color/colorAccent" />
 
 </com.jacken_liu.screen_adapter.percent.PercentLayout>

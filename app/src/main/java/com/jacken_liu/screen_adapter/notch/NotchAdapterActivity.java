@@ -39,8 +39,10 @@ public class NotchAdapterActivity extends AppCompatActivity {
          * #LAYOUT_IN_DISPLAY_CUTOUT_MODE_NEVER         不允许内容进入刘海区域
          */
         WindowManager.LayoutParams layoutParams = window.getAttributes();
-        layoutParams.layoutInDisplayCutoutMode = WindowManager.LayoutParams
-                .LAYOUT_IN_DISPLAY_CUTOUT_MODE_SHORT_EDGES;
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.P) {
+            layoutParams.layoutInDisplayCutoutMode = WindowManager.LayoutParams
+                    .LAYOUT_IN_DISPLAY_CUTOUT_MODE_SHORT_EDGES;
+        }
 
         // 3.状态栏透明
         window.setStatusBarColor(0);
@@ -76,33 +78,33 @@ public class NotchAdapterActivity extends AppCompatActivity {
         super.onAttachedToWindow();
 
         // 判断有没有刘海屏
-        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.P) {
-            DisplayCutout displayCutout = getWindow().getDecorView().getRootWindowInsets().getDisplayCutout();
-            if (displayCutout != null) {
-                // 有刘海
-                Log.e("DisplayCutout", "Rect " + displayCutout.getBoundingRects());
-                Log.e("DisplayCutout", "Left " + displayCutout.getSafeInsetLeft());
-                Log.e("DisplayCutout", "Top " + displayCutout.getSafeInsetTop());
-                Log.e("DisplayCutout", "Right " + displayCutout.getSafeInsetRight());
-                Log.e("DisplayCutout", "Bottom " + displayCutout.getSafeInsetBottom());
-
-                // 刘海区域
-                List<Rect> boundingRects = displayCutout.getBoundingRects();
-                for (Rect rect : boundingRects) {
-                    // 可能有多个刘海
-                    Log.e("刘海区域", "宽：" + rect.width() + "," + "高：" + rect.height());
-                }
-
-                // 使用 layout 下沉
-                ConstraintLayout layout = findViewById(R.id.layout);
-                layout.setPadding(
-                        displayCutout.getSafeInsetLeft(),
-                        displayCutout.getSafeInsetTop(),
-                        displayCutout.getSafeInsetRight(),
-                        displayCutout.getSafeInsetBottom()
-                );
-            }
-        }
+//        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.P) {
+//            DisplayCutout displayCutout = getWindow().getDecorView().getRootWindowInsets().getDisplayCutout();
+//            if (displayCutout != null) {
+//                // 有刘海
+//                Log.e("DisplayCutout", "Rect " + displayCutout.getBoundingRects());
+//                Log.e("DisplayCutout", "Left " + displayCutout.getSafeInsetLeft());
+//                Log.e("DisplayCutout", "Top " + displayCutout.getSafeInsetTop());
+//                Log.e("DisplayCutout", "Right " + displayCutout.getSafeInsetRight());
+//                Log.e("DisplayCutout", "Bottom " + displayCutout.getSafeInsetBottom());
+//
+//                // 刘海区域
+//                List<Rect> boundingRects = displayCutout.getBoundingRects();
+//                for (Rect rect : boundingRects) {
+//                    // 可能有多个刘海
+//                    Log.e("刘海区域", "宽：" + rect.width() + "," + "高：" + rect.height());
+//                }
+//
+//                // 使用 layout 下沉
+//                ConstraintLayout layout = findViewById(R.id.layout);
+//                layout.setPadding(
+//                        displayCutout.getSafeInsetLeft(),
+//                        displayCutout.getSafeInsetTop(),
+//                        displayCutout.getSafeInsetRight(),
+//                        displayCutout.getSafeInsetBottom()
+//                );
+//            }
+//        }
     }
 
     private int heightForDisplayCutOut() {

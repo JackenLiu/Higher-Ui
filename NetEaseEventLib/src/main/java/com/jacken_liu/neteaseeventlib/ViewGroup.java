@@ -180,6 +180,7 @@ public class ViewGroup extends View {
 
 
     private boolean onInterceptTouchEvent() {
+        System.out.println("------------- " + name + "  ViewGroup onInterceptTouchEvent");
         return false;
     }
 }

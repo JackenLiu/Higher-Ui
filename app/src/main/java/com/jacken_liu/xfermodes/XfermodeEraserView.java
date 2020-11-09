@@ -83,11 +83,19 @@ public class XfermodeEraserView extends View {
 
     private float mEventX, mEventY;
 
+    private MyScrollView myScrollView;
+
+    public void setMyScrollView(MyScrollView myScrollView) {
+        this.myScrollView = myScrollView;
+    }
+
     @Override
     public boolean onTouchEvent(MotionEvent event) {
         super.onTouchEvent(event);
         switch (event.getAction()) {
             case MotionEvent.ACTION_DOWN:
+                myScrollView.disableScroll(true);
+
                 mEventX = event.getX();
                 mEventY = event.getY();
                 mPath.moveTo(mEventX, mEventY);
@@ -101,6 +109,8 @@ public class XfermodeEraserView extends View {
                 mEventX = event.getX();
                 mEventY = event.getY();
                 break;
+            default:
+                myScrollView.disableScroll(false);
         }
         invalidate();
         return true; //消费事件

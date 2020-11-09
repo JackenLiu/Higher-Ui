@@ -31,10 +31,10 @@ public class MainActivity extends AppCompatActivity {
 //        final Class toActivity = CanvasPrimaryActivity.class;
 
 //        final Class toActivity = PaintColorFilterActivity.class;
-//        final Class toActivity = PaintGradientActivity.class;
+        final Class toActivity = PaintGradientActivity.class;
 //        final Class toActivity = PaintInitActivity.class;
 
-        final Class toActivity = XfermodeActivity.class;
+//        final Class toActivity = XfermodeActivity.class;
 //        final Class toActivity = XfermodesActivity.class;
 
 //        final Class toActivity = PathPrimaryActivity.class;

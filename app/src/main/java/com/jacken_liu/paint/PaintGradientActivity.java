@@ -9,7 +9,11 @@ import android.graphics.Canvas;
 import android.graphics.Color;
 import android.graphics.ComposeShader;
 import android.graphics.LinearGradient;
+import android.graphics.Matrix;
 import android.graphics.Paint;
+import android.graphics.Path;
+import android.graphics.PorterDuff;
+import android.graphics.PorterDuffXfermode;
 import android.graphics.RadialGradient;
 import android.graphics.Shader;
 import android.graphics.SweepGradient;
@@ -56,20 +60,21 @@ public class PaintGradientActivity extends AppCompatActivity {
             testLinearGradient(canvas);
 
             // 圆形渲染
-            testRadialGradient(canvas);
-
-            // 扫描渲染
-            testSweepGradient(canvas);
-
-            // 位图渲染
-            testBitmapShader(canvas);
-
-            // 组合渲染
-            testComposeShader(canvas);
+//            testRadialGradient(canvas);
+//
+//            // 扫描渲染
+//            testSweepGradient(canvas);
+//
+//            // 位图渲染
+//            testBitmapShader(canvas);
+//
+//            // 组合渲染
+//            testComposeShader(canvas);
         }
 
         /**
          * 组合渐变
+         *
          * @param canvas
          */
         @RequiresApi(api = Build.VERSION_CODES.Q)
@@ -90,6 +95,7 @@ public class PaintGradientActivity extends AppCompatActivity {
 
         /**
          * Bitmap 着色器
+         *
          * @param canvas
          */
         private void testBitmapShader(Canvas canvas) {
@@ -101,6 +107,7 @@ public class PaintGradientActivity extends AppCompatActivity {
 
         /**
          * 扫描渐变
+         *
          * @param canvas
          */
         private void testSweepGradient(Canvas canvas) {
@@ -115,6 +122,7 @@ public class PaintGradientActivity extends AppCompatActivity {
 
         /**
          * 辐射（水波纹）渐变
+         *
          * @param canvas
          */
         private void testRadialGradient(Canvas canvas) {
@@ -139,6 +147,7 @@ public class PaintGradientActivity extends AppCompatActivity {
 
         /**
          * 测试线性渐变
+         *
          * @param canvas
          */
         private void testLinearGradient(Canvas canvas) {
@@ -164,13 +173,20 @@ public class PaintGradientActivity extends AppCompatActivity {
 
 
             // 单色结束模式
-            mShader = new LinearGradient(0, 0, 100, 0,
-                    new int[]{Color.RED, Color.BLUE, Color.GREEN},
-                    new float[]{0f, 0.5f, 1f},
+            mShader = new LinearGradient(0, 1600, 200, 1300,
+                    new int[]{Color.BLACK, Color.TRANSPARENT},
+                    new float[]{0.4f, 0.5f},
                     Shader.TileMode.CLAMP
             );
             mPaint.setShader(mShader);
-            canvas.drawRect(0, 600, 200, 800, mPaint);
+            Path path = new Path();
+            path.moveTo(0, 1200);
+            path.lineTo(0, 1600);
+            path.lineTo(600, 1600);
+            path.close();
+            canvas.drawPath(path, mPaint);
+//            canvas.drawRect(0, 1200, 700, 1900, mPaint);
+
 
             // 镜像模式
             mShader = new LinearGradient(0, 0, 100, 0,
