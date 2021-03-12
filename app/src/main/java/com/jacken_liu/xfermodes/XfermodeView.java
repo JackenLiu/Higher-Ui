@@ -63,7 +63,7 @@ public class XfermodeView extends View {
         setBackgroundColor(Color.BLACK);
         Bitmap mBeautyBitmap;
         mBeautyBitmap = BitmapFactory.decodeResource(getResources(), R.mipmap.beauty);
-        canvas.drawBitmap(mBeautyBitmap, 0, 0, mPaint);
+//        canvas.drawBitmap(mBeautyBitmap, 0, 0, mPaint);
 
 //        //离屏绘制
         int layerId = canvas.saveLayer(0,0, getWidth(), getHeight(), mPaint, Canvas.ALL_SAVE_FLAG);
